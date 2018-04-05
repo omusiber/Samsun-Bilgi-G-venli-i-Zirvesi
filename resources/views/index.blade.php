@@ -286,7 +286,7 @@
 
             <!-- form -->
             <form name="contactForm" id="contactForm" method="post">     			
-
+								{{ csrf_field() }}
                <div class="form-field">
  					   <input name="name" type="text" id="contactName" placeholder="Ad Soyad" value="" minlength="2" required="">
                </div>
@@ -299,7 +299,7 @@
 	                  </div>	
                                          
                <div class="form-field">
-	              	<input type="text" name="corporation" id="contactCorp" placeholder="Kurum / Okul" required=""/>
+	              	<input type="text" name="from" id="contactCorp" placeholder="Kurum / Okul" required=""/>
 	            </div> 
 
                <div class="form-field">
