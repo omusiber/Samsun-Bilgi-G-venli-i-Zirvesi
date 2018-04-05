@@ -11,5 +11,13 @@
 |
 */
 
-Route::get('/', 'SiteController@index');
+Route::get('/', 'SiteController@index')->name('index');
 Route::post('/', 'SiteController@store');
+
+Auth::routes();
+
+Route::group(['middleware' => 'isAdmin', 'prefix' => 'admin'], function(){
+    Route::get('', 'AdminController@index');
+});
+
+Route::get('/home', 'HomeController@index')->name('home');
