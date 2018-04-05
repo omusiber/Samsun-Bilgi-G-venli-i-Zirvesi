@@ -14,7 +14,9 @@
 Route::get('/', 'SiteController@index')->name('index');
 Route::post('/', 'SiteController@store');
 
-Auth::routes();
+Route::group(['prefix' => Config::get('app.loginUrl')], function() {
+    Auth::routes();
+});
 
 Route::group(['middleware' => 'isAdmin', 'prefix' => 'admin'], function(){
     Route::get('', 'AdminController@index');
