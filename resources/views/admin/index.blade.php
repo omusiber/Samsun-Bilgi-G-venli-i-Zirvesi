@@ -37,6 +37,7 @@
                 <td>Email</td>
                 <td>Telefon</td>
                 <td>Kurum/Üniversite</td>
+                <td>Kayıt</td>
             </tr>
         </thead>
         @foreach($participants as $participant)
@@ -46,6 +47,7 @@
                 <td>{{ $participant->email }}</td>
                 <td>{{ $participant->phone }}</td>
                 <td>{{ $participant->from }}</td>
+                <td>{{ $participant->created_at }}</td>
             </tr>
         @endforeach
     </table>

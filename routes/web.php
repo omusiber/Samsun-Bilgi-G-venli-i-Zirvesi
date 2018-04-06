@@ -13,6 +13,7 @@
 
 Route::get('/', 'SiteController@index')->name('index');
 Route::post('/', 'SiteController@store');
+Route::get('/test', 'SiteController@sendEmailReminder');
 
 Route::group(['prefix' => Config::get('app.loginUrl')], function() {
     Auth::routes();
