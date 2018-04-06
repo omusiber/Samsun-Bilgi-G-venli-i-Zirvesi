@@ -154,26 +154,28 @@
             <figcaption>
               <h2>Caner <span>Köroğlu</span></h2>
               <p>
-                <a class="social" href="#">
+								<span>Prisma CSI</span>
+                <a class="social" href="https://twitter.com/cnrkrglu" target="_blank">
                   <i class="fa fa-twitter-square"></i>
                 </a>
-                <a class="social" href="#">
+                <a class="social" href="https://www.linkedin.com/in/cnrkrglu/" target="_blank">
                   <i class="fa fa-linkedin-square"></i>
                 </a>
-              </p>
+							</p>
             </figcaption>
           </figure>
         </div>
         <div class="col-md-3">
           <figure class="effect-sadie">
-            <img src="assets/images/speakers/kursat.jpeg" alt="Kürşat Oğuzhan Akıncı"/>
+            <img src="assets/images/speakers/bahtiyar.jpeg" alt="Bahtiyar Bircan"/>
             <figcaption>
-              <h2>Kürşat Oğuzhan <span>Akıncı</span></h2>
+              <h2>Bahtiyar <span>Bircan</span></h2>
               <p>
-                <a class="social" href="#">
+								<span>Barikat Bilişim</span>
+                <a class="social" href="https://twitter.com/bahtiyarb" target="_blank">
                   <i class="fa fa-twitter-square"></i>
                 </a>
-                <a class="social" href="#">
+                <a class="social" href="https://www.linkedin.com/in/bahtiyarbircan/" target="_blank">
                   <i class="fa fa-linkedin-square"></i>
                 </a>
               </p>
@@ -186,10 +188,11 @@
             <figcaption>
               <h2>Gökay <span>Bekşen</span></h2>
               <p>
-                <a class="social" href="#">
+								<span>Ottosis Teknoloji</span>
+                <a class="social" href="https://twitter.com/GokayBeksen" target="_blank">
                   <i class="fa fa-twitter-square"></i>
                 </a>
-                <a class="social" href="#">
+                <a class="social" href="https://www.linkedin.com/in/gokaybeksen/" target="_blank">
                   <i class="fa fa-linkedin-square"></i>
                 </a>
               </p>
@@ -202,10 +205,11 @@
             <figcaption>
               <h2>Mustafa <span>Altınkaynak</span></h2>
               <p>
-                <a class="social" href="#">
+								<span>Barikat Bilişim</span>
+                <a class="social" href="https://twitter.com/m_altinkaynak" target="_blank">
                   <i class="fa fa-twitter-square"></i>
                 </a>
-                <a class="social" href="#">
+                <a class="social" href="https://www.linkedin.com/in/altinkaynak/" target="_blank">
                   <i class="fa fa-linkedin-square"></i>
                 </a>
               </p>
@@ -220,12 +224,7 @@
             <figcaption>
               <h2>Meryem <span>Soysaldı</span></h2>
               <p>
-                <a class="social" href="#">
-                  <i class="fa fa-twitter-square"></i>
-                </a>
-                <a class="social" href="#">
-                  <i class="fa fa-linkedin-square"></i>
-                </a>
+								<span>Ondokuz Mayıs Üniversitesi</span>
               </p>
             </figcaption>
           </figure>
@@ -236,12 +235,7 @@
             <figcaption>
               <h2>Durmuş Özkan <span>Şahin</span></h2>
               <p>
-                <a class="social" href="#">
-                  <i class="fa fa-twitter-square"></i>
-                </a>
-                <a class="social" href="#">
-                  <i class="fa fa-linkedin-square"></i>
-                </a>
+									<span>Ondokuz Mayıs Üniversitesi</span>
               </p>
             </figcaption>
           </figure>
@@ -252,28 +246,7 @@
             <figcaption>
               <h2>Oğuz Emre <span>Kural</span></h2>
               <p>
-                <a class="social" href="#">
-                  <i class="fa fa-twitter-square"></i>
-                </a>
-                <a class="social" href="#">
-                  <i class="fa fa-linkedin-square"></i>
-                </a>
-              </p>
-            </figcaption>
-          </figure>
-        </div>
-        <div class="col-md-3">
-          <figure class="effect-sadie">
-            <img src="assets/images/speakers/mustafa.jpeg" alt="Mustafa Altınkaynak"/>
-            <figcaption>
-              <h2>Mustafa <span>Altınkaynak</span></h2>
-              <p>
-                <a class="social" href="#">
-                  <i class="fa fa-twitter-square"></i>
-                </a>
-                <a class="social" href="#">
-                  <i class="fa fa-linkedin-square"></i>
-                </a>
+									<span>Ondokuz Mayıs Üniversitesi</span>
               </p>
             </figcaption>
           </figure>
@@ -345,6 +318,12 @@
 					</a>
 					<a href="https://www.arkakapidergi.com/" target="_blank">
 							<img src="assets/images/supporters/arkakapi.png" alt="Arka Kapı"/>
+					</a>
+					<a href="https://www.sibertakvim.com/" target="_blank">
+						<img src="assets/images/supporters/siber-takvim.png" alt="Siber Takvim"/>
+					</a>
+					<a href="https://siber.boun.edu.tr/" target="_blank">
+						<img src="assets/images/supporters/busiber.png" alt="BUSiber"/>
 					</a>
 				</div>
     </div>
