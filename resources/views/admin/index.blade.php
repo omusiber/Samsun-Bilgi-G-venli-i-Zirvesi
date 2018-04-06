@@ -1,1 +1,1 @@
-Admin Sayfası
+{{ $participants }}

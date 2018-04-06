@@ -110,17 +110,11 @@
 
 		<ul class="home-social-list">
 	      <li class="animate-intro">
-	        	<a href="https://facebook.com/omusiber"><i class="fa fa-facebook-square"></i></a>
+	        	<a href="https://twitter.com/BGZirvesi" target="_blank"><i class="fa fa-twitter"></i></a>
 	      </li>
 	      <li class="animate-intro">
-	        	<a href="https://twitter.com/omusiber"><i class="fa fa-twitter"></i></a>
-	      </li>
-	      <li class="animate-intro">
-	        	<a href="https://instagram.com/omusiber"><i class="fa fa-instagram"></i></a>
-	      </li>
-	      <li class="animate-intro">
-	        	<a href="#"><i class="fa fa-linkedin"></i></a>
-	      </li>	      
+	        	<a href="https://www.instagram.com/BGZirvesi/" target="_blank"><i class="fa fa-instagram"></i></a>
+	      </li>    
 	   </ul> <!-- end home-social-list -->	
 
 		<div class="scrolldown">
@@ -218,6 +212,72 @@
             </figcaption>
           </figure>
         </div>
+			</div>
+			<div class="row">
+        <div class="col-md-3">
+          <figure class="effect-sadie">
+            <img src="assets/images/speakers/meryem.png" alt="Meryem Soysaldı"/>
+            <figcaption>
+              <h2>Meryem <span>Soysaldı</span></h2>
+              <p>
+                <a class="social" href="#">
+                  <i class="fa fa-twitter-square"></i>
+                </a>
+                <a class="social" href="#">
+                  <i class="fa fa-linkedin-square"></i>
+                </a>
+              </p>
+            </figcaption>
+          </figure>
+        </div>
+        <div class="col-md-3">
+          <figure class="effect-sadie">
+            <img src="assets/images/speakers/durmus.png" alt="Durmuş Özkan Şahin"/>
+            <figcaption>
+              <h2>Durmuş Özkan <span>Şahin</span></h2>
+              <p>
+                <a class="social" href="#">
+                  <i class="fa fa-twitter-square"></i>
+                </a>
+                <a class="social" href="#">
+                  <i class="fa fa-linkedin-square"></i>
+                </a>
+              </p>
+            </figcaption>
+          </figure>
+        </div>
+        <div class="col-md-3">
+          <figure class="effect-sadie">
+            <img src="assets/images/speakers/oguz.png" alt="Oğuz Emre Kural"/>
+            <figcaption>
+              <h2>Oğuz Emre <span>Kural</span></h2>
+              <p>
+                <a class="social" href="#">
+                  <i class="fa fa-twitter-square"></i>
+                </a>
+                <a class="social" href="#">
+                  <i class="fa fa-linkedin-square"></i>
+                </a>
+              </p>
+            </figcaption>
+          </figure>
+        </div>
+        <div class="col-md-3">
+          <figure class="effect-sadie">
+            <img src="assets/images/speakers/mustafa.jpeg" alt="Mustafa Altınkaynak"/>
+            <figcaption>
+              <h2>Mustafa <span>Altınkaynak</span></h2>
+              <p>
+                <a class="social" href="#">
+                  <i class="fa fa-twitter-square"></i>
+                </a>
+                <a class="social" href="#">
+                  <i class="fa fa-linkedin-square"></i>
+                </a>
+              </p>
+            </figcaption>
+          </figure>
+        </div>
       </div>
       </div>
     </div>
@@ -238,15 +298,25 @@
    <section id="sponsors">
     <h3 class="lead animate-this title">Sponsorlar</h3>
     <div class="grid">
+				<!--
       	<div class="row sponsor main-sponsor">
 	  	  	<h3>Ana Sponsor</h3>
 					<img src="https://media.licdn.com/dms/image/C5603AQGW8Qb11Zmvjg/profile-displayphoto-shrink_200_200/0?e=1526220000&v=alpha&t=pW6sIwYYARajSA09ywX0B6ymGqKASLvzcGXTpSIXHuM" alt="img02"/>
-    		</div>
+				</div>
+				-->
 				<div class="row sponsor gold-sponsor">
 					<h3>Altın Sponsor</h3>
-					<img src="https://media.licdn.com/dms/image/C5603AQGW8Qb11Zmvjg/profile-displayphoto-shrink_200_200/0?e=1526220000&v=alpha&t=pW6sIwYYARajSA09ywX0B6ymGqKASLvzcGXTpSIXHuM" alt="img02"/>
-					<img src="https://media.licdn.com/dms/image/C5603AQGW8Qb11Zmvjg/profile-displayphoto-shrink_200_200/0?e=1526220000&v=alpha&t=pW6sIwYYARajSA09ywX0B6ymGqKASLvzcGXTpSIXHuM" alt="img02"/>
+					<a href="https://www.yesilirmakedas.com/" target="_blank">
+							<img src="assets/images/sponsors/yedas.jpg" alt="Yedaş"/>
+					</a>
 				</div>
+				<div class="row sponsor main-sponsor">
+						<h3>Yiyecek Sponsoru</h3>
+						<a href="http://www.samsuntb.org.tr/" target="_blank">
+							<img src="assets/images/sponsors/samsuntb.jpg" alt="Samsun Ticaret Borsası"/>
+					</a>
+					</div>
+				<!--
       	<div class="row sponsor main-sponsor">
 	  	  	<h3>Gümüş Sponsor</h3>
 					<img src="https://media.licdn.com/dms/image/C5603AQGW8Qb11Zmvjg/profile-displayphoto-shrink_200_200/0?e=1526220000&v=alpha&t=pW6sIwYYARajSA09ywX0B6ymGqKASLvzcGXTpSIXHuM" alt="img02"/>
@@ -254,15 +324,28 @@
       	<div class="row sponsor main-sponsor">
 	  	  	<h3>Bronz Sponsor</h3>
 					<img src="https://media.licdn.com/dms/image/C5603AQGW8Qb11Zmvjg/profile-displayphoto-shrink_200_200/0?e=1526220000&v=alpha&t=pW6sIwYYARajSA09ywX0B6ymGqKASLvzcGXTpSIXHuM" alt="img02"/>
-    		</div>
+				</div>
+			-->
 				<div class="row supporters">
 					<h3>Destekleyenler</h3>
-					<img src="assets/images/supporters/blackbox.png" alt="BlackBox Security"/>
-					<img src="assets/images/supporters/cypm.png" alt="Canyoupwnme"/>
-					<img src="assets/images/supporters/arkakapi.png" alt="Arka Kapı"/>
-					<img src="assets/images/supporters/cypm.png" alt="img02"/>
-					<img src="assets/images/supporters/blackbox.png" alt="img02"/>
-					<img src="assets/images/supporters/cypm.png" alt="img02"/>
+					<a href="https://www.btk.gov.tr/" target="_blank">
+							<img src="assets/images/supporters/btk.jpg" alt="Bilgi Teknolojileri Kurumu"/>
+					</a>
+					<a href="https://www.siber.pol.tr/" target="_blank">
+						<img src="assets/images/supporters/siber-suclar.png" alt="Siber Suçlarla Mücadele"/>
+				</a>
+					<a href="https://www.samsunteknopark.com/" target="_blank">
+						<img src="assets/images/supporters/teknopark.jpeg" alt="Samsun Teknopark"/>
+					</a>
+					<a href="https://twitter.com/bl4ckb0xteam" target="_blank">
+							<img src="assets/images/supporters/blackbox.png" alt="BlackBox Security"/>
+					</a>
+					<a href="https://canyoupwn.me/" target="_blank">
+							<img src="assets/images/supporters/cypm.png" alt="Canyoupwnme"/>
+					</a>
+					<a href="https://www.arkakapidergi.com/" target="_blank">
+							<img src="assets/images/supporters/arkakapi.png" alt="Arka Kapı"/>
+					</a>
 				</div>
     </div>
   </section>

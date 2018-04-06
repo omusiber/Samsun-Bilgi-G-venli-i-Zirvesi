@@ -1628,6 +1628,11 @@ header .header-logo a {
   color: #151515 !important;
 }
 
+.scrolldown a:hover {
+  color: #26abff !important;
+  text-decoration: none;
+}
+
 html[data-useragent*='MSIE 10.0'] .scrolldown,
 .oldie .scrolldown {
   display: none;
