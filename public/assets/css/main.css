@@ -3223,3 +3223,19 @@ div.row.sponsor img:hover, div.row.supporters img:hover {
 figure.effect-sadie figcaption p span {
   display: block;
 }
+
+h3.banner {
+  width: 100%;
+  background: #252a2b;
+  padding: 15px;
+  color: #fff; 
+}
+
+h3.banner a {
+  color: #fff;
+}
+
+h3.banner a:hover {
+  text-decoration: none;
+  color: #26abff;
+}

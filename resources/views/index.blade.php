@@ -270,7 +270,7 @@
    ================================================== -->
    <section id="sponsors">
     <h3 class="lead animate-this title">Sponsorlar</h3>
-    <div class="grid">
+    <div class="grid">				
 				<!--
       	<div class="row sponsor main-sponsor">
 	  	  	<h3>Ana Sponsor</h3>
@@ -298,7 +298,7 @@
 	  	  	<h3>Bronz Sponsor</h3>
 					<img src="https://media.licdn.com/dms/image/C5603AQGW8Qb11Zmvjg/profile-displayphoto-shrink_200_200/0?e=1526220000&v=alpha&t=pW6sIwYYARajSA09ywX0B6ymGqKASLvzcGXTpSIXHuM" alt="img02"/>
 				</div>
-			-->
+			-->			
 				<div class="row supporters">
 					<h3>Destekleyenler</h3>
 					<a href="https://www.btk.gov.tr/" target="_blank">
@@ -326,6 +326,8 @@
 						<img src="assets/images/supporters/busiber.png" alt="BUSiber"/>
 					</a>
 				</div>
+				<h3 class="banner">Sponsor olmak için <a href="mailto:bilgi@bilgiguvenligizirvesi.com">bilgi@bilgiguvenligizirvesi.com</a></h3>
+				
     </div>
   </section>
 
