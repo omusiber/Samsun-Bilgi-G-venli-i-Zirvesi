@@ -36,13 +36,17 @@ class SiteController extends Controller
 
     public function sendEmailReminder()
     {
-        $participant = Participant::find(47);
-        /*
-        Mail::send('mails.register', ['participant' => $participant], function ($message) use ($participant){
+        $request = new Request;
+        $request->email = 'muhammet.ozturk@bil.omu.edu.tr';
+        $request->subject = 'Konu burası';
+        $request->header = 'Burası başlık';
+        $request->body = 'Burası içerikBurası içerikBurası içerikBurası içerikBurası içerik';
+        $participant = Participant::find(29);
+        /*return Mail::send('mails.info', ['participant' => $participant], function ($message) use ($participant, $request){
             $message->from('bilgi@bilgiguvenligizirvesi.com', 'Samsun Bilgi Güvenliği Zirvesi');
-            $message->to($participant->email)->subject('Kaydınız alınmıştır!');
+            $message->to($participant->email)->subject($request->subject);
         });*/
-        return view('mails.register', compact('participant'));
+        return view('mails.info', compact('participant', 'request'));
     }
 
 

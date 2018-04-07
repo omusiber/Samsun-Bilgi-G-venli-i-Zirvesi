@@ -55,17 +55,20 @@
                 });
             },
             sendMail(){
-                //console.log(this.content);
-                axios.post('/admin/mail/send-one',{
+                const headers = {
+                    'Content-Type': 'multipart/form-data'
+                };
+                axios.post('',{
                     email: this.email,
                     subject: this.subject,
                     header: this.header,
-                    content: this.content,
+                    body: this.content,
                     name: this.name
-                }).then(response => console.log(response));
+                }, headers).then(response => {
+                    console.log(response);
+                });
             }
         },
-
     }
 </script>
 

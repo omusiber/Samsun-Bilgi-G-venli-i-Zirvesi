@@ -18,7 +18,7 @@
 </div>
 <div class="row footer">
     Saygılarımızla <br>
-    Bilgi Güvenliği Zirvesi Etkinlik Kurulu ve OMUSiber Yönetim Kurulu
+    Bilgi Güvenliği Zirvesi Etkinlik Kurulu
 </div>
 <hr>
 

@@ -43468,7 +43468,7 @@ exports = module.exports = __webpack_require__(45)(false);
 
 
 // module
-exports.push([module.i, "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", ""]);
+exports.push([module.i, "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n", ""]);
 
 // exports
 
@@ -43799,19 +43799,20 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
             });
         },
         sendMail: function sendMail() {
-            //console.log(this.content);
-            axios.post('/admin/mail/send-one', {
+            var headers = {
+                'Content-Type': 'multipart/form-data'
+            };
+            axios.post('', {
                 email: this.email,
                 subject: this.subject,
                 header: this.header,
-                content: this.content,
+                body: this.content,
                 name: this.name
-            }).then(function (response) {
-                return console.log(response);
+            }, headers).then(function (response) {
+                console.log(response);
             });
         }
     }
-
 });
 
 /***/ }),

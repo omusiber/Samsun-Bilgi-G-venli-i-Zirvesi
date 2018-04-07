@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use App\Participant;
+use Mail;
 
 class AdminController extends Controller
 {
@@ -27,12 +28,10 @@ class AdminController extends Controller
 
     public function mailSendOnePOST(Request $request){
         $participant = Participant::where('email', $request->email)->first();
-        return Mail::send('mails.info', ['participant' => $participant], function ($message) use ($participant, $request){
+        return Mail::send('mails.info', ['participant' => $participant, 'request' => $request], function ($message) use ($participant, $request){
             $message->from('bilgi@bilgiguvenligizirvesi.com', 'Samsun Bilgi Güvenliği Zirvesi');
             $message->to($participant->email)->subject($request->subject);
         });
-        
-        //return $request;
     }
 
     public function mailSendAll(){
