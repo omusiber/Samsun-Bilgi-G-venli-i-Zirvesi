@@ -326,7 +326,7 @@
 						<img src="assets/images/supporters/busiber.png" alt="BUSiber"/>
 					</a>
 				</div>
-				<h3 class="banner">Sponsor olmak için <a href="mailto:bilgi@bilgiguvenligizirvesi.com">bilgi@bilgiguvenligizirvesi.com</a></h3>
+				<h3 class="banner">Sponsor olmak için <a href="mailto:sponsor@bilgiguvenligizirvesi.com">sponsor@bilgiguvenligizirvesi.com</a></h3>
 				
     </div>
   </section>
@@ -340,7 +340,7 @@
    		<div class="col-twelve">
    			<h3>Kayıt Ol</h3>
 
-   			<p class="lead">Etkinliğe katılmak için kayıt olmanız gerekmektedir.</p>
+   			<p class="lead">Etkinliğe katılmak ve çekilişlerden faydalanmak için kayıt olmanız gerekmektedir.</p>
    		</div> 
    	</div> <!-- end section-intro -->
 
@@ -398,7 +398,7 @@
          	<div class="cinfo">
 	   			<h6>Bize ulaşın</h6>
 	   			<p>
-	            	Yaşam Merkezi 2. Kat<br>
+	            	Yaşam Merkezi 1. Kat<br>
 	            	Kurupelit Kampüsü, OMU<br>
 	            	Samsun
 	            </p>
@@ -439,7 +439,7 @@
 	            <h4 class="h05">Samsun Bilgi Güvenliği Zirvesi</h4>
 
 	            <p>
-								Bilgi Güvenliği Zirvesi, Ondokuz Mayıs Üniversitesi Siber Güvenlik Topluluğu tarafından her sene düzenlenen 
+								Bilgi Güvenliği Zirvesi, Ondokuz Mayıs Üniversitesi Siber Güvenlik Topluluğu tarafından gelenekselleşmesi planlanan 
 								bir etkinliktir.
 							</p>	            
 

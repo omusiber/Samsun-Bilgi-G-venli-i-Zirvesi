@@ -1,4 +1,4 @@
-body {
+body, * {
     font-family: 'Raleway', sans-serif;    
 }
 
@@ -9,4 +9,21 @@ h1 {
 
 h1 span {
     font-size: 3rem;
+}
+
+button {
+    display: block;
+    margin: 20px auto;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+input.form-control {
+    width: 100%;
+}
+
+textarea {
+    width: 100%;
 }

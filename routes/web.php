@@ -20,7 +20,11 @@ Route::group(['prefix' => Config::get('app.loginUrl')], function() {
 });
 
 Route::group(['middleware' => 'isAdmin', 'prefix' => 'admin'], function(){
-    Route::get('', 'AdminController@index');
+    Route::get('', 'AdminController@index')->name('admin');
+    Route::post('/mail/check-mail', 'AdminController@checkMail');
+    Route::get('/mail/send-one', 'AdminController@mailSendOne')->name('mailSendOne');
+    Route::post('/mail/send-one', 'AdminController@mailSendOnePOST');
+    Route::get('/mail/send-all', 'AdminController@mailSendAll')->name('mailSendAll');
 });
 
 Route::get('/home', 'HomeController@index')->name('home');
