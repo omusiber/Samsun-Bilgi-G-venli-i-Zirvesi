@@ -25,6 +25,7 @@ Route::group(['middleware' => 'isAdmin', 'prefix' => 'admin'], function(){
     Route::get('/mail/send-one', 'AdminController@mailSendOne')->name('mailSendOne');
     Route::post('/mail/send-one', 'AdminController@mailSendOnePOST');
     Route::get('/mail/send-all', 'AdminController@mailSendAll')->name('mailSendAll');
+    Route::post('/mail/send-all', 'AdminController@mailSendAllPOST');
 });
 
 Route::get('/home', 'HomeController@index')->name('home');

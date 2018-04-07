@@ -18,8 +18,7 @@ class AdminController extends Controller
         if($participant->count()){
             return $participant->first()->name;
         }
-        
-        //return $request;
+        return 0;
     }
 
     public function mailSendOne(){
@@ -27,10 +26,20 @@ class AdminController extends Controller
     }
 
     public function mailSendOnePOST(Request $request){
-        return $request;
+        $participant = Participant::where('email', $request->email)->first();
+        return Mail::send('mails.info', ['participant' => $participant], function ($message) use ($participant, $request){
+            $message->from('bilgi@bilgiguvenligizirvesi.com', 'Samsun Bilgi Güvenliği Zirvesi');
+            $message->to($participant->email)->subject($request->subject);
+        });
+        
+        //return $request;
     }
 
     public function mailSendAll(){
         return view('admin.mail_all');
+    }
+
+    public function mailSendAllPOST(Request $request){
+        return $request;
     }
 }

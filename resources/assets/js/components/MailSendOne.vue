@@ -34,7 +34,7 @@
         data(){
             return {
                 email: '',
-                name: 'Kayıtlı değil!',
+                name: '',
                 subject: '',
                 header: '',
                 content: 'İçerik girin'
@@ -47,7 +47,10 @@
                     email: this.email
                 }).then(response => {
                     if(response.data.length){
-                        this.name=response.data
+                        this.name=response.data;
+                    }
+                    else{
+                        this.name='Kayıtlı değil!';
                     }
                 });
             },
