@@ -1,10 +1,10 @@
 <html>
     <head>
-        <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
         <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">            
         <style>
             body {
-                font-family: 'Raleway', sans-serif;
+                background: url('https://bilgiguvenligizirvesi.com/assets/images/mail/bos.jpg') no-repeat;
+                background-size: cover;
             }
             h1 {
                 color: #008e62;
@@ -15,9 +15,7 @@
             }
             div.container {
                 border-radius: 10px;
-                background: #141414;
                 padding: 20px;
-                box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
             }
             div.row.header,div.row.body,div.row.footer,div.row.info {
                 color: #fff;
@@ -55,9 +53,6 @@
                     Tarih: 26 - 27 Nisan 2018<br>
                     Saat: 09.30 - 17.00 / 10.00 - 12.30
                 </div>
-            <div class="row">
-                <img src="https://bilgiguvenligizirvesi.com/assets/images/omusiber.png" alt="">
-            </div>
         </div>  
     </body>
 </html>

@@ -364,6 +364,9 @@
 					<a href="https://www.arkakapidergi.com/" target="_blank">
 							<img src="assets/images/supporters/arkakapi.png" alt="Arka Kapı"/>
 					</a>
+					<a href="http://www.bmo.org.tr/" target="_blank">
+						<img src="assets/images/supporters/bmo.png" alt="Bilgisayar Mühendisleri Odası"/>
+				</a>
 					<a href="https://www.sibertakvim.com/" target="_blank">
 						<img src="assets/images/supporters/siber-takvim.png" alt="Siber Takvim"/>
 					</a>
