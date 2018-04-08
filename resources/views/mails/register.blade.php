@@ -7,7 +7,7 @@
 </div>
 <div class="row body">
     <span>
-        <b style="color: #47ff0b;">Etkinlik kaydınız onaylanmıştır.</b> Sizi bu güzel etkinlikte aramızda görmekten onur duyacağımızı belirtmek isteriz! Etkinlik boyunca birbirinden güzel konferanslar ve çekilişler gerçekleşecektir.
+        <b style="color: #47ff0b;">Etkinlik ön başvurunuz alınmıştır.</b> Sizi bu güzel etkinlikte aramızda görmekten onur duyacağımızı belirtmek isteriz! Etkinlik boyunca birbirinden güzel konferanslar ve çekilişler gerçekleşecektir.
         Aynı zamanda, etkinlik alanındaki standları gezebilirsiniz. İlgili durumlarda, bilgilendirme için bu mail adresi kullanılacaktır.
     </span>
     <span>
