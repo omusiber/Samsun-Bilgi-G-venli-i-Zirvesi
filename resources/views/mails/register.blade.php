@@ -14,7 +14,7 @@
         UNUTMAYIN: Çekiliş hakkınızın onaylanması için etkinlik başlangıcında girişte kurulacak kayıt masaları aracılığı ile kesin kaydınızı yaptırmanız gerekmektedir.
     </span>
     <span>
-        Etkinlik hakkında detaylı bilgiyi <a href="https://bilgiguvenligizirvesi.com"> web sitemizden </a> öğrenebilirsiniz.
+        Etkinlik hakkındaki güncel bilgiler için <a href="https://bilgiguvenligizirvesi.com"> web sitemizi </a> takip edebilirsiniz.
     </span>
 </div>
 @endsection
