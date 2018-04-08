@@ -19,13 +19,13 @@
  	<!-- CSS
    ================================================== -->
    <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">  
-   <link rel="stylesheet" href="{{ asset('assets/css/bootstrap.min.css') }}">   
-   <link rel="stylesheet" href="{{ asset('assets/css/base.css') }}">
-   <link rel="stylesheet" href="{{ asset('assets/css/vendor.css') }}">
+   <link rel="stylesheet" href="{{ secure_asset('assets/css/bootstrap.min.css') }}">   
+   <link rel="stylesheet" href="{{ secure_asset('assets/css/base.css') }}">
+   <link rel="stylesheet" href="{{ secure_asset('assets/css/vendor.css') }}">
    @stack('styles')  
-   <link rel="stylesheet" href="{{ asset('assets/css/main.css') }}">  
-   <link rel="stylesheet" href="{{ asset('assets/css/datatables.min.css') }}">   
-   <link rel="stylesheet" href="{{ asset('assets/css/admin.css') }}">   
+   <link rel="stylesheet" href="{{ secure_asset('assets/css/main.css') }}">  
+   <link rel="stylesheet" href="{{ secure_asset('assets/css/datatables.min.css') }}">   
+   <link rel="stylesheet" href="{{ secure_asset('assets/css/admin.css') }}">   
 
 
    <!-- favicons
@@ -42,8 +42,8 @@
 	
    <!-- script
    ================================================== -->
-   <script src="{{ asset('assets/js/jquery-2.1.3.min.js') }}"></script>
-   <script src="{{ asset('assets/js/datatables.min.js') }}"></script>
+   <script src="{{ secure_asset('assets/js/jquery-2.1.3.min.js') }}"></script>
+   <script src="{{ secure_asset('assets/js/datatables.min.js') }}"></script>
    @stack('scripts')
 </body>
 </html>
