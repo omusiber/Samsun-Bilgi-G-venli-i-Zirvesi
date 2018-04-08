@@ -1,6 +1,6 @@
 @extends('layouts.admin')
 @push('scripts')
-<script type="text/javascript" src="{{ secure_asset('secure_assets/js/admin.js') }}"></script>
+<script type="text/javascript" src="{{ secure_asset('assets/js/admin.js') }}"></script>
 @endpush
 @section('content')
 <h1>Toplam katılımcı: <span>{{ $participants_count }}</span></h1>
