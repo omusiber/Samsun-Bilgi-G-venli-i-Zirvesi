@@ -20,12 +20,11 @@
                 padding: 20px;
             }
             a{
-                color: #fff;
+                color: #e1e1e1;
                 transition: .4s;
             }
             a:hover {
-                color: #56b1ff;
-                text-decoration: none;
+                color: #fff;
             }
             div.row.header{
                 font-size: 1.5rem;

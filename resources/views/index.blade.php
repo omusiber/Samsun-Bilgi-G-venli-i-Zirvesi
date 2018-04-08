@@ -64,19 +64,7 @@
 				<li><a class="smoothscroll" href="#program" title="">İçerik</a></li>
 				<li><a class="smoothscroll" href="#sponsors" title="">Sponsorlar</a></li>
 				<li><a class="smoothscroll" href="#register" title="">Kayıt</a></li>						
-			</ul>		
-			<ul class="header-social-list">
-	         <li>
-	         	<a href="#"><i class="fa fa-facebook-square"></i></a>
-	         </li>
-	         <li>
-	         	<a href="#"><i class="fa fa-twitter"></i></a>
-	         </li>
-	         <li>
-	         	<a href="#"><i class="fa fa-instagram"></i></a>
-	         </li>
-			<li><a href=""><i class="fa fa-github"></i></a></li>        
-	      </ul>		
+			</ul>	
 		</nav>  <!-- end #menu-nav-wrap -->
 	</header> <!-- end header -->  
 
@@ -135,8 +123,12 @@
    	<div class="container">
 				<div class="row">
 					<h3 class="lead animate-this title">Hakkında</h3>
-	   			<p class="animate-this">Samsun ili, bilgi teknolojileri alanındaki kurumsal yapısı itibariyle Karadeniz'in tamamı ve İç Anadolu Bölgesinin bir kısmı olmak üzere toplamda 14 ilin merkezi konumundadır.</p>
-          <p class="animate-this">Ondokuz Mayıs Üniversitesi Siber Güvenlik Topluluğu, başlatacağı ve gelenekselleştireceği bu etkinlikle, Samsun'un ülkemizdeki stratejik konumuna dikkat çekmek ve bilgi güvenliği alanıyla Samsun ilini özdeşleştirmeyi hedeflemektedir.</p>
+					<p>
+							Bilgi ve iletişim teknolojileri, her geçen gün sundukları yeniliklerle hayatımızın vazgeçilmez bir parçası haline gelmiştir. Bilgi edinme ve paylaşma araçlarının bilinçsiz kullanımı sonucu; siber saldırı ve mobil dolandırıcı mağduru sayısı her geçen gün artmaktadır. <br>
+							Sosyal medya ve alışveriş siteleri başta olmak üzere İnternet ve mobil hat kullanıcılarının karşılaşabileceği olası tehditler konusunda katılımcıların bilgilendirilmesi konferansın öncelikli hedefidir.<br>
+							Etkinlik kapsamında güncel siber tehditler konusunda uzman konuşmacılar katılımcıları bilgilendirirken gerçekleştirilecek çekilişler ile birbirinden değerli hediyeler kazanma şansı yakalayabilir, etkinlik alanında sergilenecek OMÜ Bilgisayar Mühendisliği bitirme projelerini gezebilir ve Samsun Teknopark Kuluçka Merkezi'nde konferans ile eş zamanlı olarak gerçekleştirilecek OMUCTF'18 Final yarışması heyecanını birlikte paylaşabilirsiniz.<br>
+							Ondokuz Mayıs Üniversitesi Siber Güvenlik Topluluğu tarafından gelenekselleştirilmesi planlanan Samsun Bilgi Güvenliği Zirvesi; Samsun'un ülkemizdeki stratejik konumuna dikkat çekmek ve bilgi güvenliği alanıyla Samsun ilini özdeşleştirmeyi hedeflemektedir.
+					</p>
 				</div>
    	</div> <!-- end about-wrap  -->
 
@@ -221,7 +213,7 @@
 			<div class="row">
 					<div class="col-md-3">
 						<figure class="effect-sadie">
-							<img src="assets/images/supporters/siber-suclar.png" alt="Siber Suçlarla Mücadele Dairesi Başkanlığı"/>
+							<img src="assets/images/speakers/person.png" alt="Siber Suçlarla Mücadele Dairesi Başkanlığı"/>
 							<figcaption>
 								<h2><span>---</span></h2>
 								<p>
@@ -232,7 +224,7 @@
 					</div>
 					<div class="col-md-3">
 						<figure class="effect-sadie">
-							<img src="assets/images/sponsors/yedas.jpg" alt="Yeşilırmak Edaş"/>
+							<img src="assets/images/speakers/person.png" alt="Yeşilırmak Edaş"/>
 							<figcaption>
 								<h2><span>---</span></h2>
 								<p>
