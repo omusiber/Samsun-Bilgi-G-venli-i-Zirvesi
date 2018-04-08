@@ -2,10 +2,6 @@
     <head>
         <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">            
         <style>
-            body {
-                background: url('https://bilgiguvenligizirvesi.com/assets/images/mail/bos.jpg') no-repeat;
-                background-size: cover;
-            }
             h1 {
                 color: #008e62;
                 text-align: center;
@@ -14,6 +10,8 @@
                 border-top: 1px solid rgba(255, 221, 221, 0.1);
             }
             div.container {
+                background: url('https://bilgiguvenligizirvesi.com/assets/images/mail/bg.jpg') no-repeat;
+                background-size: cover;
                 border-radius: 10px;
                 padding: 20px;
             }
@@ -21,8 +19,20 @@
                 color: #fff;
                 padding: 20px;
             }
+            a{
+                color: #fff;
+                transition: .4s;
+            }
+            a:hover {
+                color: #56b1ff;
+                text-decoration: none;
+            }
             div.row.header{
                 font-size: 1.5rem;
+            }
+            img{
+                display: block;
+                margin: 0 auto;
             }
             div.row img{
                 width: 100px;
@@ -35,6 +45,7 @@
             }
             span{
                 display: block;
+                margin: 10px 0;
             }
             
         </style>
