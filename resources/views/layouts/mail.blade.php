@@ -1,6 +1,7 @@
 <html>
     <head>
         <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">            
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">        
         <style>
             h1 {
                 color: #008e62;
@@ -20,11 +21,8 @@
                 padding: 20px;
             }
             a{
-                color: #e1e1e1;
-                transition: .4s;
-            }
-            a:hover {
                 color: #fff;
+                transition: .4s;
             }
             div.row.header{
                 font-size: 1.5rem;
