@@ -152,7 +152,7 @@
           <figure class="effect-sadie">
             <img src="assets/images/speakers/caner.jpeg" alt="Caner Köroğlu"/>
             <figcaption>
-              <h2>Caner <span>Köroğlu</span></h2>
+              <h2><span>Caner Köroğlu</span></h2>
               <p>
 								<span>Prisma CSI</span>
                 <a class="social" href="https://twitter.com/cnrkrglu" target="_blank">
@@ -169,7 +169,7 @@
           <figure class="effect-sadie">
             <img src="assets/images/speakers/bahtiyar.jpeg" alt="Bahtiyar Bircan"/>
             <figcaption>
-              <h2>Bahtiyar <span>Bircan</span></h2>
+              <h2><span>Bahtiyar Bircan</span></h2>
               <p>
 								<span>Barikat Bilişim</span>
                 <a class="social" href="https://twitter.com/bahtiyarb" target="_blank">
@@ -186,7 +186,7 @@
           <figure class="effect-sadie">
             <img src="assets/images/speakers/gokay.jpeg" alt="Gökay Bekşen"/>
             <figcaption>
-              <h2>Gökay <span>Bekşen</span></h2>
+              <h2><span>Gökay Bekşen</span></h2>
               <p>
 								<span>Ottosis Teknoloji</span>
                 <a class="social" href="https://twitter.com/GokayBeksen" target="_blank">
@@ -203,7 +203,7 @@
           <figure class="effect-sadie">
             <img src="assets/images/speakers/mustafa.jpeg" alt="Mustafa Altınkaynak"/>
             <figcaption>
-              <h2>Mustafa <span>Altınkaynak</span></h2>
+              <h2><span>Mustafa Altınkaynak</span></h2>
               <p>
 								<span>Barikat Bilişim</span>
                 <a class="social" href="https://twitter.com/m_altinkaynak" target="_blank">
@@ -222,7 +222,7 @@
           <figure class="effect-sadie">
             <img src="assets/images/speakers/meryem.png" alt="Meryem Soysaldı"/>
             <figcaption>
-              <h2>Meryem <span>Soysaldı</span></h2>
+              <h2><span>Meryem Soysaldı</span></h2>
               <p>
 								<span>Ondokuz Mayıs Üniversitesi</span>
               </p>
@@ -233,7 +233,7 @@
           <figure class="effect-sadie">
             <img src="assets/images/speakers/durmus.png" alt="Durmuş Özkan Şahin"/>
             <figcaption>
-              <h2>Durmuş Özkan <span>Şahin</span></h2>
+              <h2><span>Durmuş Özkan Şahin</span></h2>
               <p>
 									<span>Ondokuz Mayıs Üniversitesi</span>
               </p>
@@ -244,13 +244,27 @@
           <figure class="effect-sadie">
             <img src="assets/images/speakers/oguz.png" alt="Oğuz Emre Kural"/>
             <figcaption>
-              <h2>Oğuz Emre <span>Kural</span></h2>
+              <h2><span>Oğuz Emre Kural</span></h2>
               <p>
 									<span>Ondokuz Mayıs Üniversitesi</span>
               </p>
             </figcaption>
           </figure>
-        </div>
+				</div>
+				<div class="col-md-3">
+					<figure class="effect-sadie">
+						<img src="assets/images/speakers/mehmet_can.jpeg" alt="Mehmet Can Demir"/>
+						<figcaption>
+							<h2><span>Mehmet Can Demir</span></h2>
+							<p>
+								<span>BTRisk</span>
+								<a class="social" href="https://www.linkedin.com/in/mehmet-can-demir-0009b1bb/" target="_blank">
+									<i class="fa fa-linkedin-square"></i>
+								</a>
+							</p>
+						</figcaption>
+					</figure>
+				</div>
       </div>
       </div>
     </div>

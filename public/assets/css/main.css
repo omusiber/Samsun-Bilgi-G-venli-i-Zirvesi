@@ -2664,7 +2664,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   background: #f89e0f;
 }
 
-#message-warning, #message-success {
+#message-warning, #message-success, #message-error {
   display: none;
   background: #000000;
   padding: 3rem;
@@ -3121,7 +3121,7 @@ figure.effect-sadie h2 {
 	left: 0;
 	width: 100%;
   /*color: #484c61;*/
-  color: #e4e1e1;
+  color: #f5f5f5;
 	-webkit-transition: -webkit-transform 0.35s, color 0.35s;
 	transition: transform 0.35s, color 0.35s;
 	-webkit-transform: translate3d(0,-50%,0);
