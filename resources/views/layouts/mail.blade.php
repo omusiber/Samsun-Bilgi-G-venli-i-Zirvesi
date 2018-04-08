@@ -56,7 +56,7 @@
                     Saat: 09.30 - 17.00 / 10.00 - 12.30
                 </div>
             <div class="row">
-                <img src="http://bilgiguvenligizirvesi.com/assets/images/omusiber.png" alt="">
+                <img src="https://bilgiguvenligizirvesi.com/assets/images/omusiber.png" alt="">
             </div>
         </div>  
     </body>

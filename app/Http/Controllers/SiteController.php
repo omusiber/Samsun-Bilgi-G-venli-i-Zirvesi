@@ -17,6 +17,10 @@ class SiteController extends Controller
         if(sizeOf(Participant::where('email', $request->email)->get())){
             return "Kaydınız zaten bulunmaktadır!";
         }
+        
+        if($request->input('g-recaptcha-response') == ""){
+            return abort(500);
+        }
 
         $participant = Participant::create([
             'name' => $request->name,
@@ -29,7 +33,6 @@ class SiteController extends Controller
             $message->from('bilgi@bilgiguvenligizirvesi.com', 'Samsun Bilgi Güvenliği Zirvesi');
             $message->to($participant->email)->subject('Kaydınız alınmıştır!');
         });
-
         return "Kaydınız başarıyla oluşturuldu!";
     }
 

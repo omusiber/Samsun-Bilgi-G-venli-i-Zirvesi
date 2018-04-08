@@ -364,10 +364,12 @@
                                          
                <div class="form-field">
 	              	<input type="text" name="from" id="contactCorp" placeholder="Kurum / Okul" required=""/>
-	            </div> 
+							</div> 
+							<div class="g-recaptcha" data-sitekey="6LcP11EUAAAAABry_WkHpbZdMKu5vrhyx3Guywkx"></div>
+							
 
                <div class="form-field">
-                  <button class="submitform">Katıl</button>
+                  <button class="submitform" type="submit">Katıl</button>
 
                   <div id="submit-loader">
                      <div class="text-loader">Gönderiliyor...</div>                             
@@ -382,7 +384,8 @@
       		</form> <!-- end form -->
 
             <!-- contact-warning -->
-            <div id="message-warning"></div> 
+						<div id="message-warning"></div> 
+						<div id="message-error"></div> 
 
             <!-- contact-success -->
       		<div id="message-success">
@@ -489,7 +492,8 @@
 
    <!-- Java Script
    ================================================== --> 
-   <script src="assets/js/jquery-2.1.3.min.js"></script>
+	 <script src="assets/js/jquery-2.1.3.min.js"></script>
+	 <script src='https://www.google.com/recaptcha/api.js'></script>	 
    <script src="assets/js/plugins.js"></script>
    <script src="assets/js/main.js"></script>
    <script src="assets/js/countdown.js"></script>

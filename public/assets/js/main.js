@@ -327,15 +327,17 @@
 		            }
 		            // There was an error
 		            else {
-		            	sLoader.fadeOut(); 
+						$('#message-error').fadeOut(); 
+						sLoader.fadeOut();
 		               $('#message-warning').html(msg);
 			            $('#message-warning').fadeIn();
 		            }
 			      },
 			      error: function() {
+					$('#message-warning').fadeOut();
 			      	sLoader.fadeOut(); 
-			      	$('#message-warning').html("Hay aksi! Bir şeyler ters gitti.");
-			         $('#message-warning').fadeIn();
+			      	$('#message-error').html("Hay aksi! Bir şeyler ters gitti.");
+			         $('#message-error').fadeIn();
 			      }
 		      });    		
 	  		}
