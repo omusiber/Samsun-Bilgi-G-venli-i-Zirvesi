@@ -10,13 +10,14 @@
 	<title>Samsun Bilgi Güvenliği Zirvesi</title>
 	<meta name="description" content="">  
 	<meta name="author" content="">
+	<link rel="icon" type="image/png" href="assets/images/favicon.jpg">
 
    <!-- mobile specific metas
    ================================================== -->
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
  	<!-- CSS
-   ================================================== -->
+	 ================================================== -->
 	 <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
    <link rel="stylesheet" href="assets/css/bootstrap.min.css">   
    <link rel="stylesheet" href="assets/css/base.css">
@@ -218,6 +219,55 @@
         </div>
 			</div>
 			<div class="row">
+					<div class="col-md-3">
+						<figure class="effect-sadie">
+							<img src="assets/images/supporters/siber-suclar.png" alt="Siber Suçlarla Mücadele Dairesi Başkanlığı"/>
+							<figcaption>
+								<h2><span>---</span></h2>
+								<p>
+									<span>Siber Suçlarla Mücadele Dairesi</span>
+								</p>
+							</figcaption>
+						</figure>
+					</div>
+					<div class="col-md-3">
+						<figure class="effect-sadie">
+							<img src="assets/images/sponsors/yedas.jpg" alt="Yeşilırmak Edaş"/>
+							<figcaption>
+								<h2><span>---</span></h2>
+								<p>
+										<span>Yedaş</span>
+								</p>
+							</figcaption>
+						</figure>
+					</div>
+					<div class="col-md-3">
+						<figure class="effect-sadie">
+							<img src="assets/images/speakers/mehmet_can.jpeg" alt="Mehmet Can Demir"/>
+							<figcaption>
+								<h2><span>Mehmet Can Demir</span></h2>
+								<p>
+									<span>BTRisk</span>
+									<a class="social" href="https://www.linkedin.com/in/mehmet-can-demir-0009b1bb/" target="_blank">
+										<i class="fa fa-linkedin-square"></i>
+									</a>
+								</p>
+							</figcaption>
+						</figure>
+					</div>
+					<div class="col-md-3">
+							<figure class="effect-sadie">
+								<img src="assets/images/speakers/oguz.png" alt="Oğuz Emre Kural"/>
+								<figcaption>
+									<h2><span>Oğuz Emre Kural</span></h2>
+									<p>
+											<span>Ondokuz Mayıs Üniversitesi</span>
+									</p>
+								</figcaption>
+							</figure>
+						</div>
+				</div>
+			<div class="row">
         <div class="col-md-3">
           <figure class="effect-sadie">
             <img src="assets/images/speakers/meryem.png" alt="Meryem Soysaldı"/>
@@ -240,31 +290,6 @@
             </figcaption>
           </figure>
         </div>
-        <div class="col-md-3">
-          <figure class="effect-sadie">
-            <img src="assets/images/speakers/oguz.png" alt="Oğuz Emre Kural"/>
-            <figcaption>
-              <h2><span>Oğuz Emre Kural</span></h2>
-              <p>
-									<span>Ondokuz Mayıs Üniversitesi</span>
-              </p>
-            </figcaption>
-          </figure>
-				</div>
-				<div class="col-md-3">
-					<figure class="effect-sadie">
-						<img src="assets/images/speakers/mehmet_can.jpeg" alt="Mehmet Can Demir"/>
-						<figcaption>
-							<h2><span>Mehmet Can Demir</span></h2>
-							<p>
-								<span>BTRisk</span>
-								<a class="social" href="https://www.linkedin.com/in/mehmet-can-demir-0009b1bb/" target="_blank">
-									<i class="fa fa-linkedin-square"></i>
-								</a>
-							</p>
-						</figcaption>
-					</figure>
-				</div>
       </div>
       </div>
     </div>
@@ -324,11 +349,17 @@
 					<a href="https://www.samsunteknopark.com/" target="_blank">
 						<img src="assets/images/supporters/teknopark.jpeg" alt="Samsun Teknopark"/>
 					</a>
+					<a href="#" target="_blank">
+							<img src="assets/images/supporters/sechool.png" alt="Sechool"/>
+					</a>
 					<a href="https://twitter.com/bl4ckb0xteam" target="_blank">
 							<img src="assets/images/supporters/blackbox.png" alt="BlackBox Security"/>
 					</a>
 					<a href="https://canyoupwn.me/" target="_blank">
 							<img src="assets/images/supporters/cypm.png" alt="Canyoupwnme"/>
+					</a>
+					<a href="https://poinetr.com/" target="_blank">
+							<img src="assets/images/supporters/poinetr.jpg" alt="PoineTR"/>
 					</a>
 					<a href="https://www.arkakapidergi.com/" target="_blank">
 							<img src="assets/images/supporters/arkakapi.png" alt="Arka Kapı"/>
@@ -461,18 +492,10 @@
 							</p>	            
 
 		      </div> <!-- end footer-about -->
-
-	      	<div class="col-three tab-full footer-social">
-
-	      		<h4 class="h05">Takip edin.</h4>
-
-	      		<ul class="list-links">
-	      			<li><a href="#">Facebook</a></li>
-						<li><a href="#">Twitter</a></li>
-						<li><a href="#">Instagram</a></li>					
-					</ul>
-
-	      	</div> <!-- end footer-social -->       	    
+					
+			 <div class="row">
+					<img src="assets/images/logo.jpg" alt="Logo" style="display: block;margin: 5% auto;">
+				</div>    	    
 
 	      </div> <!-- end row -->
 
@@ -484,8 +507,7 @@
 
       		<div class="col-twelve">
 	      		<div class="copyright">
-		         	<span>© Copyright 2018.</span> 
-		         	<span>Design by <a href="http://www.styleshout.com/">styleshout</a></span>		         	
+		         	<span>© Copyright 2018</span> 	         	
 		         </div>		               
 	      	</div>
 

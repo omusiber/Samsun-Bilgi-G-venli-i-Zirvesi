@@ -1789,7 +1789,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   position: relative;
   padding: 4.2rem 0 12rem;
   background-color: #FFFFFF;
-  min-height: 696px;
+  /*min-height: 696px;*/
   text-align: justify;
 }
 #about .about-wrap {
