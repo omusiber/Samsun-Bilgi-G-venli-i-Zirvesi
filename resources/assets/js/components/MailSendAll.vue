@@ -1,15 +1,7 @@
 <template>
     <div>
-        <h1>Yalnızca bir kişiye mail gönder</h1>
+        <h1>Herkese mail gönder</h1>
         <hr>
-        <div class="row">
-            <div class="col-md-6">
-                <input type="text" class="form-control" placeholder="Mail adresi" v-model="email" @keyup="checkMail">
-            </div>
-            <div class="col-md-6">
-                <input type="text" class="form-control" v-model="name" disabled>
-            </div>
-        </div>
         <div class="row">
             <div class="col-md-6">
                 <input type="text" class="form-control" placeholder="Konu" v-model="subject">
@@ -46,18 +38,6 @@
         },
 
         methods: {
-            checkMail(){
-                axios.post('/admin/mail/check-mail',{
-                    email: this.email
-                }).then(response => {
-                    if(response.data.length){
-                        this.name=response.data;
-                    }
-                    else{
-                        this.name='Kayıtlı değil!';
-                    }
-                });
-            },
             sendMail(){
                 const headers = {
                     'Content-Type': 'multipart/form-data'
@@ -75,12 +55,11 @@
                 }).then((result) => {
                     if (result.value) {
                         axios.post('',{
-                            email: this.email,
                             subject: this.subject,
                             header: this.header,
                             body: this.content,
-                            name: this.name
                         }, headers).then(response => {
+                            console.log(response.data)
                             if(response.status === 200){
                                 self.$swal(
                                     'Gönderildi!',

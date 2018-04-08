@@ -1,4 +1,7 @@
 @extends('layouts.admin')
+@push('scripts')
+<script type="text/javascript" src="{{ asset('assets/js/admin.js') }}"></script>
+@endpush
 @section('content')
 <h1>Toplam katılımcı: <span>{{ $participants_count }}</span></h1>
 <div class="row">

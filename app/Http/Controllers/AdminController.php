@@ -39,6 +39,15 @@ class AdminController extends Controller
     }
 
     public function mailSendAllPOST(Request $request){
-        return $request;
+        $participant_mails = Participant::select('email')->get();
+        $mails = array();
+        foreach($participant_mails as $participant){
+            array_push($mails, $participant['email']);
+        }
+        return Mail::send('mails.broadcast', ['participant' => $participant, 'request' => $request], function ($message) use ($mails, $request){
+            $message->from('bilgi@bilgiguvenligizirvesi.com', 'Samsun Bilgi Güvenliği Zirvesi');
+            $message->subject($request->subject);
+            $message->bcc($mails);
+        });
     }
 }
