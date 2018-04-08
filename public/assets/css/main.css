@@ -2668,6 +2668,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   display: none;
   background: #000000;
   padding: 3rem;
+  font-family: 'Lato', sans-serif;
   margin-bottom: 3.6rem;
   width: 100%;
 }
