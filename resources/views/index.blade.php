@@ -301,13 +301,13 @@
    ================================================== -->
    <section id="sponsors">
     <h3 class="lead animate-this title">Sponsorlar</h3>
-    <div class="grid">				
-				<!--
+    <div class="grid">	
       	<div class="row sponsor main-sponsor">
-	  	  	<h3>Ana Sponsor</h3>
-					<img src="https://media.licdn.com/dms/image/C5603AQGW8Qb11Zmvjg/profile-displayphoto-shrink_200_200/0?e=1526220000&v=alpha&t=pW6sIwYYARajSA09ywX0B6ymGqKASLvzcGXTpSIXHuM" alt="img02"/>
+					<h3>Ana Sponsor</h3>
+					<a href="http://www.samsuntso.org.tr/" target="_blank">
+						<img src="assets/images/sponsors/samsuntso.png" alt="Samsun Ticaret ve Sanayi Odası"/>						
+					</a>
 				</div>
-				-->
 				<div class="row sponsor gold-sponsor">
 					<h3>Altın Sponsor</h3>
 					<a href="https://www.yesilirmakedas.com/" target="_blank">
