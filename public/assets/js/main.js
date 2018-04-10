@@ -426,3 +426,142 @@
  
 
 })(jQuery);
+
+$(document).ready(function() {
+	
+	var $wrapper = $('.tab-wrapper'),
+		$allTabs = $wrapper.find('.tab-content > div'),
+		$tabMenu = $wrapper.find('.tab-menu li'),
+		$line = $('<div class="line"></div>').appendTo($tabMenu);
+	
+	$allTabs.not(':first-of-type').hide();  
+	$tabMenu.filter(':first-of-type').find(':first').width('100%')
+	
+	$tabMenu.each(function(i) {
+	  $(this).attr('data-tab', 'tab'+i);
+	});
+	
+	$allTabs.each(function(i) {
+	  $(this).attr('data-tab', 'tab'+i);
+	});
+	
+	$tabMenu.on('click', function() {
+	  
+	  var dataTab = $(this).data('tab'),
+		  $getWrapper = $(this).closest($wrapper);
+	  
+	  $getWrapper.find($tabMenu).removeClass('active');
+	  $(this).addClass('active');
+	  
+	  $getWrapper.find('.line').width(0);
+	  $(this).find($line).animate({'width':'100%'}, 'fast');
+	  $getWrapper.find($allTabs).hide();
+	  $getWrapper.find($allTabs).filter('[data-tab='+dataTab+']').show();
+	});
+
+	(function() {
+
+  'use strict';
+
+  // define variables
+  var items = document.querySelectorAll(".timeline li");
+
+  // check if an element is in viewport
+  // http://stackoverflow.com/questions/123999/how-to-tell-if-a-dom-element-is-visible-in-the-current-viewport
+  function isElementInViewport(el) {
+    var rect = el.getBoundingClientRect();
+    return (
+      rect.top >= 0 &&
+      rect.left >= 0 &&
+      rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) &&
+      rect.right <= (window.innerWidth || document.documentElement.clientWidth)
+    );
+  }
+
+  function callbackFunc() {
+    for (var i = 0; i < items.length; i++) {
+      if (isElementInViewport(items[i])) {
+        items[i].classList.add("in-view");
+      }
+    }
+  }
+
+  // listen for events
+  window.addEventListener("load", callbackFunc);
+  window.addEventListener("resize", callbackFunc);
+  window.addEventListener("scroll", callbackFunc);
+
+})();
+  
+  });//end ready
+
+  (function() {
+
+  'use strict';
+
+  // define variables
+  var items = document.querySelectorAll(".timeline li");
+
+  // check if an element is in viewport
+  // http://stackoverflow.com/questions/123999/how-to-tell-if-a-dom-element-is-visible-in-the-current-viewport
+  function isElementInViewport(el) {
+    var rect = el.getBoundingClientRect();
+    return (
+      rect.top >= 0 &&
+      rect.left >= 0 &&
+      rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) &&
+      rect.right <= (window.innerWidth || document.documentElement.clientWidth)
+    );
+  }
+
+  function callbackFunc() {
+    for (var i = 0; i < items.length; i++) {
+      if (isElementInViewport(items[i])) {
+        items[i].classList.add("in-view");
+      }
+    }
+  }
+
+  // listen for events
+  window.addEventListener("load", callbackFunc);
+  window.addEventListener("resize", callbackFunc);
+  window.addEventListener("scroll", callbackFunc);
+
+})();
+
+
+/* TIMELINE */
+
+(function() {
+	
+	  'use strict';
+	
+	  // define variables
+	  var items = document.querySelectorAll(".timeline li");
+	
+	  // check if an element is in viewport
+	  // http://stackoverflow.com/questions/123999/how-to-tell-if-a-dom-element-is-visible-in-the-current-viewport
+	  function isElementInViewport(el) {
+		var rect = el.getBoundingClientRect();
+		return (
+		  rect.top >= 0 &&
+		  rect.left >= 0 &&
+		  rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) &&
+		  rect.right <= (window.innerWidth || document.documentElement.clientWidth)
+		);
+	  }
+	
+	  function callbackFunc() {
+		for (var i = 0; i < items.length; i++) {
+		  if (isElementInViewport(items[i])) {
+			items[i].classList.add("in-view");
+		  }
+		}
+	  }
+	
+	  // listen for events
+	  window.addEventListener("load", callbackFunc);
+	  window.addEventListener("resize", callbackFunc);
+	  window.addEventListener("scroll", callbackFunc);
+	
+	})();

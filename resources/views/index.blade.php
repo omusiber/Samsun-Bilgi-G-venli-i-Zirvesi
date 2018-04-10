@@ -293,7 +293,205 @@
 	<section id="program">
     <h3 class="lead animate-this title">İÇERİK</h3>
     <div class="grid">
-			<p>Etkinliğe ait içerik yakında eklenecektir.</p>
+				<div class="tab-wrapper">
+						
+						<ul class="tab-menu">
+							<li class="active">26 Nisan</li>
+							<li>27 Nisan</li>
+						</ul>
+						<div class="tab-content">
+							<div>
+								<section class="timeline">
+										<ul>
+											<li>
+												<div>
+													<span class="triangle"></span>
+													<span class="session-title">1.</span>
+													<span class="session-body">Oturum</span>
+													<time>13<sup>00</sup>- 13<sup>45</sup></time>
+													<span class="flow-title">
+														Açılış
+													</span>
+													<span class="flow-body">
+														Protokol Konuşmaları<br>
+													</span>
+												</div>
+											</li>
+											<li>
+												<div>
+													<span class="triangle"></span>
+													<span class="session-title">1.</span>
+													<span class="session-body">Oturum</span>
+													<time>13<sup>45</sup> - 14<sup>30</sup></time>
+													<span class="flow-title">
+														Hacker Mantığı
+													</span>
+													<span class="flow-body">
+														Onur Aktaş<br>
+														Bilgi Teknolojileri Kurumu
+													</span>
+												</div>
+											</li>
+											<li>
+												<div>
+													<span class="triangle"></span>
+													<span class="session-title">1.</span>
+													<span class="session-body">Oturum</span>
+													<time>14<sup>30</sup> - 15<sup>15</sup></time>
+													<span class="flow-title">
+														Sosyal Medyada Güvende miyiz ?
+													</span>
+													<span class="flow-body">
+														Onur Aktaş<br>
+														Emniyet Müdürlüğü Siber Suçlarla Mücadele Dairesi
+													</span>
+												</div>
+											</li>
+											<li>
+												<div>
+													<span class="triangle"></span>
+													<span class="session-title">Ara</span>
+													<time>15<sup>15</sup> - 15<sup>45</sup></time>
+													<span class="flow-title">
+														Ara
+													</span>
+													<span class="flow-body">
+														Oturum Arası ve Çekilişler<br>
+													</span>
+												</div>
+											</li>
+											<li>
+													<div>
+														<span class="triangle"></span>
+														<span class="session-title">2.</span>
+														<span class="session-body">Oturum</span>
+														<time>15<sup>45</sup> - 16<sup>30</sup></time>
+														<span class="flow-title">
+															Elektrik dağıtımında güvenlik
+														</span>
+														<span class="flow-body">
+															Yeşilırmak EDAŞ<br>
+														</span>
+													</div>
+												</li>
+												<li>
+													<div>
+														<span class="triangle"></span>
+														<span class="session-title">2.</span>
+														<span class="session-body">Oturum</span>
+														<time>16<sup>30</sup> - 17<sup>15</sup></time>
+														<span class="flow-title">
+															IoT Cihazlarda Güvenlik
+														</span>
+														<span class="flow-body">
+															Mehmet Can Demir<br>
+															BTRisk
+														</span>
+													</div>
+												</li>
+												<li>
+													<div>
+														<span class="triangle"></span>
+														<span class="session-title">2.</span>
+														<span class="session-body">Oturum</span>
+														<time>17<sup>15</sup> - 18<sup>00</sup></time>
+														<span class="flow-title">
+															Kişisel Verileri Koruma Kanunu
+														</span>
+														<span class="flow-body">
+															Bahtiyar Bircan<br>
+															Barikat Bilişim A.Ş.
+														</span>
+													</div>
+												</li>
+										</ul>
+									</section>
+							</div>
+							<div>
+
+									<section class="timeline">
+											<ul>
+												<li>
+													<div>
+														<span class="triangle"></span>
+														<span class="session-title">3.</span>
+														<span class="session-body">Oturum</span>
+														<time>09<sup>30</sup>- 10<sup>15</sup></time>
+														<span class="flow-title">
+															Mobil Uygulamalarda İzinler
+														</span>
+														<span class="flow-body">
+															Durmuş Özkan Şahin<br>
+															Ondokuz Mayıs Üniversitesi
+														</span>
+													</div>
+												</li>
+												<li>
+													<div>
+														<span class="triangle"></span>
+														<span class="session-title">3.</span>
+														<span class="session-body">Oturum</span>
+														<time>10<sup>15</sup> - 11<sup>00</sup></time>
+														<span class="flow-title">
+															İnternetin Yeraltı Dünyası ve Siber Terörizm
+														</span>
+														<span class="flow-body">
+															Caner Köroğlu<br>
+															Prisma CSI
+														</span>
+													</div>
+												</li>
+												<li>
+													<div>
+														<span class="triangle"></span>
+														<span class="session-title">Ara</span>
+														<time>11<sup>00</sup> - 11<sup>30</sup></time>
+														<span class="flow-title">
+															Ara
+														</span>
+														<span class="flow-body">
+															Oturum Arası ve Çekilişler<br>
+														</span>
+													</div>
+												</li>
+												<li>
+														<div>
+															<span class="triangle"></span>
+															<span class="session-title">4.</span>
+															<span class="session-body">Oturum</span>
+															<time>11<sup>30</sup> - 12<sup>30</sup></time>
+															<span class="flow-title">
+																Siber Tehdit ve Yeni Nesil Ataklar
+															</span>
+															<span class="flow-body">
+																Mustafa Altınkaynak<br>
+																Barikat Bilişim A.Ş.
+															</span>
+														</div>
+													</li>
+													<li>
+														<div>
+															<span class="triangle"></span>
+															<span class="session-title">5.</span>
+															<span class="session-body">Oturum</span>
+															<time>14<sup>00</sup> - 14<sup>45</sup></time>
+															<span class="flow-title">
+																Siber Güvenlikte Girişimcilik
+															</span>
+															<span class="flow-body">
+																Gökay Bekşen<br>
+																Ottosis
+															</span>
+														</div>
+													</li>
+											</ul>
+										</section>
+							</div>
+						</div><!-- //tab-content -->
+						
+					</div><!-- //tab-wrapper -->
+					
+					
     </div>
   </section>
 
