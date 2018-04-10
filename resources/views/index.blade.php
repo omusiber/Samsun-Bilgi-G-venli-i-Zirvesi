@@ -350,7 +350,7 @@
 											<li>
 												<div>
 													<span class="triangle"></span>
-													<span class="session-title">Ara</span>
+													<span class="session-title session-break">Ara</span>
 													<time>15<sup>15</sup> - 15<sup>45</sup></time>
 													<span class="flow-title">
 														Ara
@@ -421,7 +421,7 @@
 															Mobil Uygulamalarda İzinler
 														</span>
 														<span class="flow-body">
-															Durmuş Özkan Şahin<br>
+															Durmuş Özkan Şahin - Oğuz Emre Kural<br>
 															Ondokuz Mayıs Üniversitesi
 														</span>
 													</div>
@@ -444,7 +444,7 @@
 												<li>
 													<div>
 														<span class="triangle"></span>
-														<span class="session-title">Ara</span>
+														<span class="session-title session-break">Ara</span>
 														<time>11<sup>00</sup> - 11<sup>30</sup></time>
 														<span class="flow-title">
 															Ara
