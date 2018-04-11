@@ -141,6 +141,17 @@
     <h3 class="lead animate-this title">Konuşmacılar</h3>
     <div class="grid container">
       <div class="row">
+					<div class="col-md-3">
+							<figure class="effect-sadie">
+								<img src="assets/images/speakers/person.png" alt="Siber Suçlarla Mücadele Dairesi Başkanlığı"/>
+								<figcaption>
+									<h2><span>Onur Aktaş</span></h2>
+									<p>
+										<span>BTK</span>
+									</p>
+								</figcaption>
+							</figure>
+						</div>
         <div class="col-md-3">
           <figure class="effect-sadie">
             <img src="assets/images/speakers/caner.jpeg" alt="Caner Köroğlu"/>
@@ -155,23 +166,6 @@
                   <i class="fa fa-linkedin-square"></i>
                 </a>
 							</p>
-            </figcaption>
-          </figure>
-        </div>
-        <div class="col-md-3">
-          <figure class="effect-sadie">
-            <img src="assets/images/speakers/bahtiyar.jpeg" alt="Bahtiyar Bircan"/>
-            <figcaption>
-              <h2><span>Bahtiyar Bircan</span></h2>
-              <p>
-								<span>Barikat Bilişim</span>
-                <a class="social" href="https://twitter.com/bahtiyarb" target="_blank">
-                  <i class="fa fa-twitter-square"></i>
-                </a>
-                <a class="social" href="https://www.linkedin.com/in/bahtiyarbircan/" target="_blank">
-                  <i class="fa fa-linkedin-square"></i>
-                </a>
-              </p>
             </figcaption>
           </figure>
         </div>
@@ -224,6 +218,23 @@
 					</div>
 					<div class="col-md-3">
 						<figure class="effect-sadie">
+							<img src="assets/images/speakers/bahtiyar.jpeg" alt="Bahtiyar Bircan"/>
+							<figcaption>
+								<h2><span>Bahtiyar Bircan</span></h2>
+								<p>
+									<span>Barikat Bilişim</span>
+									<a class="social" href="https://twitter.com/bahtiyarb" target="_blank">
+										<i class="fa fa-twitter-square"></i>
+									</a>
+									<a class="social" href="https://www.linkedin.com/in/bahtiyarbircan/" target="_blank">
+										<i class="fa fa-linkedin-square"></i>
+									</a>
+								</p>
+							</figcaption>
+						</figure>
+					</div>
+					<div class="col-md-3">
+						<figure class="effect-sadie">
 							<img src="assets/images/speakers/person.png" alt="Yeşilırmak Edaş"/>
 							<figcaption>
 								<h2><span>---</span></h2>
@@ -247,6 +258,8 @@
 							</figcaption>
 						</figure>
 					</div>
+				</div>
+			<div class="row">
 					<div class="col-md-3">
 							<figure class="effect-sadie">
 								<img src="assets/images/speakers/oguz.png" alt="Oğuz Emre Kural"/>
@@ -258,8 +271,6 @@
 								</figcaption>
 							</figure>
 						</div>
-				</div>
-			<div class="row">
         <div class="col-md-3">
           <figure class="effect-sadie">
             <img src="assets/images/speakers/meryem.png" alt="Meryem Soysaldı"/>
@@ -342,7 +353,6 @@
 														Sosyal Medyada Güvende miyiz ?
 													</span>
 													<span class="flow-body">
-														Onur Aktaş<br>
 														Emniyet Müdürlüğü Siber Suçlarla Mücadele Dairesi
 													</span>
 												</div>
@@ -367,7 +377,7 @@
 														<span class="session-body">Oturum</span>
 														<time>15<sup>45</sup> - 16<sup>30</sup></time>
 														<span class="flow-title">
-															Elektrik dağıtımında güvenlik
+															Elektrik Dağıtımında Siber Güvenlik
 														</span>
 														<span class="flow-body">
 															Yeşilırmak EDAŞ<br>
