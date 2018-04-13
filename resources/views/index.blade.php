@@ -61,6 +61,7 @@
 				<li class="current"><a class="smoothscroll" href="#home" title="">Başlangıç</a></li>
 				<li><a class="smoothscroll" href="#about" title="">Hakkında</a></li>
 				<li><a class="smoothscroll" href="#speakers" title="">Konuşmacılar</a></li>
+				<li><a class="smoothscroll" href="#omuctf" title="">OMUCTF'18 Final</a></li>
 				<li><a class="smoothscroll" href="#program" title="">İçerik</a></li>
 				<li><a class="smoothscroll" href="#sponsors" title="">Sponsorlar</a></li>
 				<li><a class="smoothscroll" href="#register" title="">Kayıt</a></li>						
@@ -134,376 +135,389 @@
 
    </section> <!-- end about -->
 
-
-  <!-- speakers
-  ================================================== -->
-  <section id="speakers">
-    <h3 class="lead animate-this title">Konuşmacılar</h3>
-    <div class="grid container">
-      <div class="row">
-					<div class="col-md-3">
-							<figure class="effect-sadie">
-								<img src="assets/images/speakers/person.png" alt="Siber Suçlarla Mücadele Dairesi Başkanlığı"/>
-								<figcaption>
-									<h2><span>Onur Aktaş</span></h2>
-									<p>
-										<span>BTK</span>
-									</p>
-								</figcaption>
-							</figure>
-						</div>
-        <div class="col-md-3">
-          <figure class="effect-sadie">
-            <img src="assets/images/speakers/caner.jpeg" alt="Caner Köroğlu"/>
-            <figcaption>
-              <h2><span>Caner Köroğlu</span></h2>
-              <p>
-								<span>Prisma CSI</span>
-                <a class="social" href="https://twitter.com/cnrkrglu" target="_blank">
-                  <i class="fa fa-twitter-square"></i>
-                </a>
-                <a class="social" href="https://www.linkedin.com/in/cnrkrglu/" target="_blank">
-                  <i class="fa fa-linkedin-square"></i>
-                </a>
-							</p>
-            </figcaption>
-          </figure>
-        </div>
-        <div class="col-md-3">
-          <figure class="effect-sadie">
-            <img src="assets/images/speakers/gokay.jpeg" alt="Gökay Bekşen"/>
-            <figcaption>
-              <h2><span>Gökay Bekşen</span></h2>
-              <p>
-								<span>Ottosis Teknoloji</span>
-                <a class="social" href="https://twitter.com/GokayBeksen" target="_blank">
-                  <i class="fa fa-twitter-square"></i>
-                </a>
-                <a class="social" href="https://www.linkedin.com/in/gokaybeksen/" target="_blank">
-                  <i class="fa fa-linkedin-square"></i>
-                </a>
-              </p>
-            </figcaption>
-          </figure>
-        </div>
-        <div class="col-md-3">
-          <figure class="effect-sadie">
-            <img src="assets/images/speakers/mustafa.jpeg" alt="Mustafa Altınkaynak"/>
-            <figcaption>
-              <h2><span>Mustafa Altınkaynak</span></h2>
-              <p>
-								<span>Barikat Bilişim</span>
-                <a class="social" href="https://twitter.com/m_altinkaynak" target="_blank">
-                  <i class="fa fa-twitter-square"></i>
-                </a>
-                <a class="social" href="https://www.linkedin.com/in/altinkaynak/" target="_blank">
-                  <i class="fa fa-linkedin-square"></i>
-                </a>
-              </p>
-            </figcaption>
-          </figure>
-        </div>
-			</div>
-			<div class="row">
-					<div class="col-md-3">
-						<figure class="effect-sadie">
-							<img src="assets/images/speakers/person.png" alt="Siber Suçlarla Mücadele Dairesi Başkanlığı"/>
-							<figcaption>
-								<h2><span>---</span></h2>
-								<p>
-									<span>Siber Suçlarla Mücadele Dairesi</span>
-								</p>
-							</figcaption>
-						</figure>
-					</div>
-					<div class="col-md-3">
-						<figure class="effect-sadie">
-							<img src="assets/images/speakers/bahtiyar.jpeg" alt="Bahtiyar Bircan"/>
-							<figcaption>
-								<h2><span>Bahtiyar Bircan</span></h2>
-								<p>
-									<span>Barikat Bilişim</span>
-									<a class="social" href="https://twitter.com/bahtiyarb" target="_blank">
-										<i class="fa fa-twitter-square"></i>
-									</a>
-									<a class="social" href="https://www.linkedin.com/in/bahtiyarbircan/" target="_blank">
-										<i class="fa fa-linkedin-square"></i>
-									</a>
-								</p>
-							</figcaption>
-						</figure>
-					</div>
-					<div class="col-md-3">
-						<figure class="effect-sadie">
-							<img src="assets/images/speakers/person.png" alt="Yeşilırmak Edaş"/>
-							<figcaption>
-								<h2><span>---</span></h2>
-								<p>
-										<span>Yedaş</span>
-								</p>
-							</figcaption>
-						</figure>
-					</div>
-					<div class="col-md-3">
-						<figure class="effect-sadie">
-							<img src="assets/images/speakers/mehmet_can.jpeg" alt="Mehmet Can Demir"/>
-							<figcaption>
-								<h2><span>Mehmet Can Demir</span></h2>
-								<p>
-									<span>BTRisk</span>
-									<a class="social" href="https://www.linkedin.com/in/mehmet-can-demir-0009b1bb/" target="_blank">
-										<i class="fa fa-linkedin-square"></i>
-									</a>
-								</p>
-							</figcaption>
-						</figure>
-					</div>
-				</div>
-			<div class="row">
-					<div class="col-md-3">
-							<figure class="effect-sadie">
-								<img src="assets/images/speakers/oguz.png" alt="Oğuz Emre Kural"/>
-								<figcaption>
-									<h2><span>Oğuz Emre Kural</span></h2>
-									<p>
-											<span>Ondokuz Mayıs Üniversitesi</span>
-									</p>
-								</figcaption>
-							</figure>
-						</div>
-        <div class="col-md-3">
-          <figure class="effect-sadie">
-            <img src="assets/images/speakers/meryem.png" alt="Meryem Soysaldı"/>
-            <figcaption>
-              <h2><span>Meryem Soysaldı</span></h2>
-              <p>
-								<span>Ondokuz Mayıs Üniversitesi</span>
-              </p>
-            </figcaption>
-          </figure>
-        </div>
-        <div class="col-md-3">
-          <figure class="effect-sadie">
-            <img src="assets/images/speakers/durmus.png" alt="Durmuş Özkan Şahin"/>
-            <figcaption>
-              <h2><span>Durmuş Özkan Şahin</span></h2>
-              <p>
-									<span>Ondokuz Mayıs Üniversitesi</span>
-              </p>
-            </figcaption>
-          </figure>
-        </div>
-      </div>
-      </div>
-    </div>
-  </section>
-
    <!-- program
    ================================================== -->
 
 	<section id="program">
     <h3 class="lead animate-this title">İÇERİK</h3>
     <div class="grid">
-				<div class="tab-wrapper">
-						
-						<ul class="tab-menu">
-							<li class="active">26 Nisan</li>
-							<li>27 Nisan</li>
-						</ul>
-						<div class="tab-content">
+		<div class="tab-wrapper">
+				
+		<ul class="tab-menu">
+			<li class="active">26 Nisan</li>
+			<li>27 Nisan</li>
+		</ul>
+		<div class="tab-content">
+		<div>
+		<section class="timeline">
+				<ul>
+					<li>
+						<div>
+							<span class="triangle"></span>
+							<span class="session-title">1.</span>
+							<span class="session-body">Oturum</span>
+							<time>13<sup>00</sup>- 13<sup>45</sup></time>
+							<span class="flow-title">
+								Açılış
+							</span>
+							<span class="flow-body">
+								Protokol Konuşmaları<br>
+							</span>
+						</div>
+					</li>
+					<li>
+						<div>
+							<span class="triangle"></span>
+							<span class="session-title">1.</span>
+							<span class="session-body">Oturum</span>
+							<time>13<sup>45</sup> - 14<sup>30</sup></time>
+							<span class="flow-title">
+								Hacker Mantığı
+							</span>
+							<span class="flow-body">
+								Onur Aktaş<br>
+								Bilgi Teknolojileri Kurumu
+							</span>
+						</div>
+					</li>
+					<li>
+						<div>
+							<span class="triangle"></span>
+							<span class="session-title">1.</span>
+							<span class="session-body">Oturum</span>
+							<time>14<sup>30</sup> - 15<sup>15</sup></time>
+							<span class="flow-title">
+								Sosyal Medyada Güvende miyiz ?
+							</span>
+							<span class="flow-body">
+								Emniyet Müdürlüğü Siber Suçlarla Mücadele Dairesi
+							</span>
+						</div>
+					</li>
+					<li>
+						<div>
+							<span class="triangle"></span>
+							<span class="session-title session-break">Ara</span>
+							<time>15<sup>15</sup> - 15<sup>45</sup></time>
+							<span class="flow-title">
+								Ara
+							</span>
+							<span class="flow-body">
+								Oturum Arası ve Çekilişler<br>
+							</span>
+						</div>
+					</li>
+					<li>
 							<div>
-								<section class="timeline">
-										<ul>
-											<li>
-												<div>
-													<span class="triangle"></span>
-													<span class="session-title">1.</span>
-													<span class="session-body">Oturum</span>
-													<time>13<sup>00</sup>- 13<sup>45</sup></time>
-													<span class="flow-title">
-														Açılış
-													</span>
-													<span class="flow-body">
-														Protokol Konuşmaları<br>
-													</span>
-												</div>
-											</li>
-											<li>
-												<div>
-													<span class="triangle"></span>
-													<span class="session-title">1.</span>
-													<span class="session-body">Oturum</span>
-													<time>13<sup>45</sup> - 14<sup>30</sup></time>
-													<span class="flow-title">
-														Hacker Mantığı
-													</span>
-													<span class="flow-body">
-														Onur Aktaş<br>
-														Bilgi Teknolojileri Kurumu
-													</span>
-												</div>
-											</li>
-											<li>
-												<div>
-													<span class="triangle"></span>
-													<span class="session-title">1.</span>
-													<span class="session-body">Oturum</span>
-													<time>14<sup>30</sup> - 15<sup>15</sup></time>
-													<span class="flow-title">
-														Sosyal Medyada Güvende miyiz ?
-													</span>
-													<span class="flow-body">
-														Emniyet Müdürlüğü Siber Suçlarla Mücadele Dairesi
-													</span>
-												</div>
-											</li>
-											<li>
-												<div>
-													<span class="triangle"></span>
-													<span class="session-title session-break">Ara</span>
-													<time>15<sup>15</sup> - 15<sup>45</sup></time>
-													<span class="flow-title">
-														Ara
-													</span>
-													<span class="flow-body">
-														Oturum Arası ve Çekilişler<br>
-													</span>
-												</div>
-											</li>
-											<li>
-													<div>
-														<span class="triangle"></span>
-														<span class="session-title">2.</span>
-														<span class="session-body">Oturum</span>
-														<time>15<sup>45</sup> - 16<sup>30</sup></time>
-														<span class="flow-title">
-															Elektrik Dağıtımında Siber Güvenlik
-														</span>
-														<span class="flow-body">
-															Yeşilırmak EDAŞ<br>
-														</span>
-													</div>
-												</li>
-												<li>
-													<div>
-														<span class="triangle"></span>
-														<span class="session-title">2.</span>
-														<span class="session-body">Oturum</span>
-														<time>16<sup>30</sup> - 17<sup>15</sup></time>
-														<span class="flow-title">
-															IoT Cihazlarda Güvenlik
-														</span>
-														<span class="flow-body">
-															Mehmet Can Demir<br>
-															BTRisk
-														</span>
-													</div>
-												</li>
-												<li>
-													<div>
-														<span class="triangle"></span>
-														<span class="session-title">2.</span>
-														<span class="session-body">Oturum</span>
-														<time>17<sup>15</sup> - 18<sup>00</sup></time>
-														<span class="flow-title">
-															Kişisel Verileri Koruma Kanunu
-														</span>
-														<span class="flow-body">
-															Bahtiyar Bircan<br>
-															Barikat Bilişim A.Ş.
-														</span>
-													</div>
-												</li>
-										</ul>
-									</section>
+								<span class="triangle"></span>
+								<span class="session-title">2.</span>
+								<span class="session-body">Oturum</span>
+								<time>15<sup>45</sup> - 16<sup>30</sup></time>
+								<span class="flow-title">
+									Akıllı Şebekede Siber Güvenlik
+								</span>
+								<span class="flow-body">
+									H. Gökhan Şahin<br>
+								</span>
 							</div>
+						</li>
+						<li>
 							<div>
-
-									<section class="timeline">
-											<ul>
-												<li>
-													<div>
-														<span class="triangle"></span>
-														<span class="session-title">3.</span>
-														<span class="session-body">Oturum</span>
-														<time>09<sup>30</sup>- 10<sup>15</sup></time>
-														<span class="flow-title">
-															Mobil Uygulamalarda İzinler
-														</span>
-														<span class="flow-body">
-															Durmuş Özkan Şahin - Oğuz Emre Kural<br>
-															Ondokuz Mayıs Üniversitesi
-														</span>
-													</div>
-												</li>
-												<li>
-													<div>
-														<span class="triangle"></span>
-														<span class="session-title">3.</span>
-														<span class="session-body">Oturum</span>
-														<time>10<sup>15</sup> - 11<sup>00</sup></time>
-														<span class="flow-title">
-															İnternetin Yeraltı Dünyası ve Siber Terörizm
-														</span>
-														<span class="flow-body">
-															Caner Köroğlu<br>
-															Prisma CSI
-														</span>
-													</div>
-												</li>
-												<li>
-													<div>
-														<span class="triangle"></span>
-														<span class="session-title session-break">Ara</span>
-														<time>11<sup>00</sup> - 11<sup>30</sup></time>
-														<span class="flow-title">
-															Ara
-														</span>
-														<span class="flow-body">
-															Oturum Arası ve Çekilişler<br>
-														</span>
-													</div>
-												</li>
-												<li>
-														<div>
-															<span class="triangle"></span>
-															<span class="session-title">4.</span>
-															<span class="session-body">Oturum</span>
-															<time>11<sup>30</sup> - 12<sup>30</sup></time>
-															<span class="flow-title">
-																Siber Tehdit ve Yeni Nesil Ataklar
-															</span>
-															<span class="flow-body">
-																Mustafa Altınkaynak<br>
-																Barikat Bilişim A.Ş.
-															</span>
-														</div>
-													</li>
-													<li>
-														<div>
-															<span class="triangle"></span>
-															<span class="session-title">5.</span>
-															<span class="session-body">Oturum</span>
-															<time>14<sup>00</sup> - 14<sup>45</sup></time>
-															<span class="flow-title">
-																Siber Güvenlikte Girişimcilik
-															</span>
-															<span class="flow-body">
-																Gökay Bekşen<br>
-																Ottosis
-															</span>
-														</div>
-													</li>
-											</ul>
-										</section>
+								<span class="triangle"></span>
+								<span class="session-title">2.</span>
+								<span class="session-body">Oturum</span>
+								<time>16<sup>30</sup> - 17<sup>15</sup></time>
+								<span class="flow-title">
+									IoT Cihazlarda Güvenlik
+								</span>
+								<span class="flow-body">
+									Mehmet Can Demir<br>
+									BTRisk
+								</span>
 							</div>
-						</div><!-- //tab-content -->
-						
-					</div><!-- //tab-wrapper -->
-					
-					
+						</li>
+						<li>
+							<div>
+								<span class="triangle"></span>
+								<span class="session-title">2.</span>
+								<span class="session-body">Oturum</span>
+								<time>17<sup>15</sup> - 18<sup>00</sup></time>
+								<span class="flow-title">
+									Kişisel Verileri Koruma Kanunu
+								</span>
+								<span class="flow-body">
+									Bahtiyar Bircan<br>
+									Barikat Bilişim A.Ş.
+								</span>
+							</div>
+						</li>
+				</ul>
+			</section>
+				</div>
+				<div>
+					<section class="timeline">
+							<ul>
+								<li>
+									<div>
+										<span class="triangle"></span>
+										<span class="session-title">3.</span>
+										<span class="session-body">Oturum</span>
+										<time>09<sup>30</sup>- 10<sup>15</sup></time>
+										<span class="flow-title">
+											Mobil Uygulamalarda İzinler
+										</span>
+										<span class="flow-body">
+											Durmuş Özkan Şahin - Oğuz Emre Kural<br>
+											Ondokuz Mayıs Üniversitesi
+										</span>
+									</div>
+								</li>
+								<li>
+									<div>
+										<span class="triangle"></span>
+										<span class="session-title">3.</span>
+										<span class="session-body">Oturum</span>
+										<time>10<sup>15</sup> - 11<sup>00</sup></time>
+										<span class="flow-title">
+											İnternetin Yeraltı Dünyası ve Siber Terörizm
+										</span>
+										<span class="flow-body">
+											Caner Köroğlu<br>
+											Prisma CSI
+										</span>
+									</div>
+								</li>
+								<li>
+									<div>
+										<span class="triangle"></span>
+										<span class="session-title session-break">Ara</span>
+										<time>11<sup>00</sup> - 11<sup>30</sup></time>
+										<span class="flow-title">
+											Ara
+										</span>
+										<span class="flow-body">
+											Oturum Arası ve Çekilişler<br>
+										</span>
+									</div>
+								</li>
+								<li>
+										<div>
+											<span class="triangle"></span>
+											<span class="session-title">4.</span>
+											<span class="session-body">Oturum</span>
+											<time>11<sup>30</sup> - 12<sup>30</sup></time>
+											<span class="flow-title">
+												Siber Tehdit ve Yeni Nesil Ataklar
+											</span>
+											<span class="flow-body">
+												Mustafa Altınkaynak<br>
+												Barikat Bilişim A.Ş.
+											</span>
+										</div>
+									</li>
+									<li>
+										<div>
+											<span class="triangle"></span>
+											<span class="session-title">5.</span>
+											<span class="session-body">Oturum</span>
+											<time>14<sup>00</sup> - 14<sup>45</sup></time>
+											<span class="flow-title">
+												Siber Güvenlikte Girişimcilik
+											</span>
+											<span class="flow-body">
+												Gökay Bekşen<br>
+												Ottosis
+											</span>
+										</div>
+									</li>
+							</ul>
+						</section>
+				</div>
+			</div><!-- //tab-content -->
+		</div><!-- //tab-wrapper -->
     </div>
   </section>
+
+
+  <!-- speakers
+  ================================================== -->
+  <section id="speakers">
+		<h3 class="lead animate-this title">Konuşmacılar</h3>
+		<div class="grid container">
+		  <div class="row">
+			<div class="col-md-3">
+					<figure class="effect-sadie">
+						<img src="assets/images/speakers/person.png" alt="Siber Suçlarla Mücadele Dairesi Başkanlığı"/>
+						<figcaption>
+							<h2><span>Onur Aktaş</span></h2>
+							<p>
+								<span>Bilgi Teknolojileri ve İletişim Kurumu</span>
+							</p>
+						</figcaption>
+					</figure>
+				</div>
+			<div class="col-md-3">
+			  <figure class="effect-sadie">
+				<img src="assets/images/speakers/caner.jpeg" alt="Caner Köroğlu"/>
+				<figcaption>
+				  <h2><span>Caner Köroğlu</span></h2>
+				  <p>
+									<span>Prisma CSI</span>
+					<a class="social" href="https://twitter.com/cnrkrglu" target="_blank">
+					  <i class="fa fa-twitter-square"></i>
+					</a>
+					<a class="social" href="https://www.linkedin.com/in/cnrkrglu/" target="_blank">
+					  <i class="fa fa-linkedin-square"></i>
+					</a>
+								</p>
+				</figcaption>
+			  </figure>
+			</div>
+			<div class="col-md-3">
+			  <figure class="effect-sadie">
+				<img src="assets/images/speakers/gokay.jpeg" alt="Gökay Bekşen"/>
+				<figcaption>
+				  <h2><span>Gökay Bekşen</span></h2>
+				  <p>
+									<span>Ottosis Teknoloji</span>
+					<a class="social" href="https://twitter.com/GokayBeksen" target="_blank">
+					  <i class="fa fa-twitter-square"></i>
+					</a>
+					<a class="social" href="https://www.linkedin.com/in/gokaybeksen/" target="_blank">
+					  <i class="fa fa-linkedin-square"></i>
+					</a>
+				  </p>
+				</figcaption>
+			  </figure>
+			</div>
+			<div class="col-md-3">
+			  <figure class="effect-sadie">
+				<img src="assets/images/speakers/mustafa.jpeg" alt="Mustafa Altınkaynak"/>
+				<figcaption>
+				  <h2><span>Mustafa Altınkaynak</span></h2>
+				  <p>
+									<span>Barikat Bilişim</span>
+					<a class="social" href="https://twitter.com/m_altinkaynak" target="_blank">
+					  <i class="fa fa-twitter-square"></i>
+					</a>
+					<a class="social" href="https://www.linkedin.com/in/altinkaynak/" target="_blank">
+					  <i class="fa fa-linkedin-square"></i>
+					</a>
+				  </p>
+				</figcaption>
+			  </figure>
+			</div>
+				</div>
+				<div class="row">
+						<div class="col-md-3">
+							<figure class="effect-sadie">
+								<img src="assets/images/speakers/person.png" alt="Siber Suçlarla Mücadele Dairesi Başkanlığı"/>
+								<figcaption>
+									<h2><span>---</span></h2>
+									<p>
+										<span>Siber Suçlarla Mücadele Dairesi</span>
+									</p>
+								</figcaption>
+							</figure>
+						</div>
+						<div class="col-md-3">
+							<figure class="effect-sadie">
+								<img src="assets/images/speakers/bahtiyar.jpeg" alt="Bahtiyar Bircan"/>
+								<figcaption>
+									<h2><span>Bahtiyar Bircan</span></h2>
+									<p>
+										<span>Barikat Bilişim</span>
+										<a class="social" href="https://twitter.com/bahtiyarb" target="_blank">
+											<i class="fa fa-twitter-square"></i>
+										</a>
+										<a class="social" href="https://www.linkedin.com/in/bahtiyarbircan/" target="_blank">
+											<i class="fa fa-linkedin-square"></i>
+										</a>
+									</p>
+								</figcaption>
+							</figure>
+						</div>
+						<div class="col-md-3">
+							<figure class="effect-sadie">
+								<img src="assets/images/speakers/person.png" alt="Yeşilırmak Edaş"/>
+								<figcaption>
+									<h2><span>---</span></h2>
+									<p>
+										<span>Yedaş</span>
+									</p>
+								</figcaption>
+							</figure>
+						</div>
+						<div class="col-md-3">
+							<figure class="effect-sadie">
+								<img src="assets/images/speakers/mehmet_can.jpeg" alt="Mehmet Can Demir"/>
+								<figcaption>
+									<h2><span>Mehmet Can Demir</span></h2>
+									<p>
+										<span>BTRisk</span>
+										<a class="social" href="https://www.linkedin.com/in/mehmet-can-demir-0009b1bb/" target="_blank">
+											<i class="fa fa-linkedin-square"></i>
+										</a>
+									</p>
+								</figcaption>
+							</figure>
+						</div>
+					</div>
+				<div class="row">
+						<div class="col-md-3">
+								<figure class="effect-sadie">
+									<img src="assets/images/speakers/oguz.png" alt="Oğuz Emre Kural"/>
+									<figcaption>
+										<h2><span>Oğuz Emre Kural</span></h2>
+										<p>
+												<span>Ondokuz Mayıs Üniversitesi</span>
+										</p>
+									</figcaption>
+								</figure>
+							</div>
+			<div class="col-md-3">
+			  <figure class="effect-sadie">
+				<img src="assets/images/speakers/meryem.png" alt="Meryem Soysaldı"/>
+				<figcaption>
+				  <h2><span>Meryem Soysaldı</span></h2>
+				  <p>
+									<span>Ondokuz Mayıs Üniversitesi</span>
+				  </p>
+				</figcaption>
+			  </figure>
+			</div>
+			<div class="col-md-3">
+			  <figure class="effect-sadie">
+				<img src="assets/images/speakers/durmus.png" alt="Durmuş Özkan Şahin"/>
+				<figcaption>
+				  <h2><span>Durmuş Özkan Şahin</span></h2>
+				  <p>
+										<span>Ondokuz Mayıs Üniversitesi</span>
+				  </p>
+				</figcaption>
+			  </figure>
+			</div>
+		  </div>
+		  </div>
+		</div>
+	  </section>
+
+   <!-- omuctf
+   ================================================== -->
+   <section id="omuctf">
+		<div class="container">
+			<div class="row">
+				<h3 class="lead animate-this title omuctf">OMUCTF'18 Final</h3>
+				<p>
+					10 Mart 2018'de online olarak düzenlenen OMUCTF'18 in final aşaması Samsun Bilgi Güvenliği Zirvesi organizasyonu kapsamında 
+					Samsun Teknopark Kuluçka Merkezi'nde gerçekleşecektir.
+				</p>
+				<p style="text-align:center">
+					İçerik düzenlenmektedir.
+				</p>
+			</div>
+		</div> <!-- end about-wrap  -->
+		</section> <!-- end about -->
 
    <!-- sponsors
    ================================================== -->
@@ -523,21 +537,17 @@
 					</a>
 				</div>
 				<div class="row sponsor main-sponsor">
-						<h3>Yiyecek Sponsoru</h3>
-						<a href="http://www.samsuntb.org.tr/" target="_blank">
-							<img src="assets/images/sponsors/samsuntb.jpg" alt="Samsun Ticaret Borsası"/>
+					<h3>Yiyecek Sponsoru</h3>
+					<a href="http://www.samsuntb.org.tr/" target="_blank">
+						<img src="assets/images/sponsors/samsuntb.jpg" alt="Samsun Ticaret Borsası"/>
 					</a>
-					</div>
-				<!--
-      	<div class="row sponsor main-sponsor">
-	  	  	<h3>Gümüş Sponsor</h3>
-					<img src="https://media.licdn.com/dms/image/C5603AQGW8Qb11Zmvjg/profile-displayphoto-shrink_200_200/0?e=1526220000&v=alpha&t=pW6sIwYYARajSA09ywX0B6ymGqKASLvzcGXTpSIXHuM" alt="img02"/>
-    		</div>
-      	<div class="row sponsor main-sponsor">
-	  	  	<h3>Bronz Sponsor</h3>
-					<img src="https://media.licdn.com/dms/image/C5603AQGW8Qb11Zmvjg/profile-displayphoto-shrink_200_200/0?e=1526220000&v=alpha&t=pW6sIwYYARajSA09ywX0B6ymGqKASLvzcGXTpSIXHuM" alt="img02"/>
 				</div>
-			-->			
+				<div class="row sponsor main-sponsor">
+					<h3>Sunucu Sponsoru</h3>
+					<a href="https://radore.com/" target="_blank">
+						<img src="assets/images/sponsors/radore.png" alt="Radore Veri Merkezi"/>
+				</a>
+				</div>	
 				<div class="row supporters">
 					<h3>Destekleyenler</h3>
 					<a href="https://www.btk.gov.tr/" target="_blank">
@@ -566,12 +576,15 @@
 					</a>
 					<a href="http://www.bmo.org.tr/" target="_blank">
 						<img src="assets/images/supporters/bm-odasi.png" alt="Bilgisayar Mühendisleri Odası"/>
-				</a>
+					</a>
 					<a href="https://www.sibertakvim.com/" target="_blank">
 						<img src="assets/images/supporters/siber-takvim.png" alt="Siber Takvim"/>
 					</a>
 					<a href="https://siber.boun.edu.tr/" target="_blank">
 						<img src="assets/images/supporters/busiber.png" alt="BUSiber"/>
+					</a>
+					<a href="http://www.aridoshika.com/" target="_blank">
+						<img src="assets/images/supporters/aridoshika.png" alt="Aridoshika"/>
 					</a>
 				</div>
 				<h3 class="banner">Sponsor olmak için <a href="mailto:sponsor@bilgiguvenligizirvesi.com">sponsor@bilgiguvenligizirvesi.com</a></h3>

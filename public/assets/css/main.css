@@ -3491,6 +3491,11 @@ span.session-break {
   }
 }
 
+.omuctf {
+  background: #e1e1e1;
+  border-radius: 10px !important;
+}
+
 
 
 ::-webkit-scrollbar {
