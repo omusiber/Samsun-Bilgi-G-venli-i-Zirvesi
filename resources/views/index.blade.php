@@ -439,9 +439,9 @@
 						</div>
 						<div class="col-md-3">
 							<figure class="effect-sadie">
-								<img src="assets/images/speakers/person.png" alt="Yeşilırmak Edaş"/>
+								<img src="assets/images/speakers/hasan.jpg" alt="Hasan Gökhan Şahin"/>
 								<figcaption>
-									<h2><span>---</span></h2>
+									<h2><span>H. Gökhan Şahin</span></h2>
 									<p>
 										<span>Yedaş</span>
 									</p>
@@ -449,21 +449,32 @@
 							</figure>
 						</div>
 						<div class="col-md-3">
-							<figure class="effect-sadie">
-								<img src="assets/images/speakers/mehmet_can.jpeg" alt="Mehmet Can Demir"/>
-								<figcaption>
-									<h2><span>Mehmet Can Demir</span></h2>
-									<p>
-										<span>BTRisk</span>
-										<a class="social" href="https://www.linkedin.com/in/mehmet-can-demir-0009b1bb/" target="_blank">
-											<i class="fa fa-linkedin-square"></i>
-										</a>
-									</p>
-								</figcaption>
-							</figure>
-						</div>
+								<figure class="effect-sadie">
+									<img src="assets/images/speakers/burak.png" alt="Burak Silvan"/>
+									<figcaption>
+										<h2><span>Burak Silvan</span></h2>
+										<p>
+											<span>Yedaş</span>
+										</p>
+									</figcaption>
+								</figure>
+							</div>
 					</div>
 				<div class="row">
+						<div class="col-md-3">
+								<figure class="effect-sadie">
+									<img src="assets/images/speakers/mehmet_can.jpeg" alt="Mehmet Can Demir"/>
+									<figcaption>
+										<h2><span>Mehmet Can Demir</span></h2>
+										<p>
+											<span>BTRisk</span>
+											<a class="social" href="https://www.linkedin.com/in/mehmet-can-demir-0009b1bb/" target="_blank">
+												<i class="fa fa-linkedin-square"></i>
+											</a>
+										</p>
+									</figcaption>
+								</figure>
+							</div>
 						<div class="col-md-3">
 								<figure class="effect-sadie">
 									<img src="assets/images/speakers/oguz.png" alt="Oğuz Emre Kural"/>
@@ -537,16 +548,16 @@
 					</a>
 				</div>
 				<div class="row sponsor main-sponsor">
+					<h3>Bronz Sponsor</h3>
+					<a href="https://radore.com/" target="_blank">
+						<img src="assets/images/sponsors/radore.png" alt="Radore Veri Merkezi"/>
+					</a>
+				</div>
+				<div class="row sponsor main-sponsor">
 					<h3>Yiyecek Sponsoru</h3>
 					<a href="http://www.samsuntb.org.tr/" target="_blank">
 						<img src="assets/images/sponsors/samsuntb.jpg" alt="Samsun Ticaret Borsası"/>
 					</a>
-				</div>
-				<div class="row sponsor main-sponsor">
-					<h3>Sunucu Sponsoru</h3>
-					<a href="https://radore.com/" target="_blank">
-						<img src="assets/images/sponsors/radore.png" alt="Radore Veri Merkezi"/>
-				</a>
 				</div>	
 				<div class="row supporters">
 					<h3>Destekleyenler</h3>
