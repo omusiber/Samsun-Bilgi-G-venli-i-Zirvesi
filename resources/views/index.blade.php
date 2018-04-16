@@ -597,6 +597,9 @@
 					<a href="http://www.aridoshika.com/" target="_blank">
 						<img src="assets/images/supporters/aridoshika.png" alt="Aridoshika"/>
 					</a>
+					<a href="https://www.twitter.com/siberortam/" target="_blank">
+						<img src="assets/images/supporters/siber-ortam.png" alt="Siber Ortam"/>
+					</a>
 				</div>
 				<h3 class="banner">Sponsor olmak için <a href="mailto:sponsor@bilgiguvenligizirvesi.com">sponsor@bilgiguvenligizirvesi.com</a></h3>
 				
