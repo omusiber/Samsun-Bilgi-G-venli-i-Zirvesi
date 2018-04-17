@@ -187,9 +187,10 @@
 							<span class="session-body">Oturum</span>
 							<time>14<sup>30</sup> - 15<sup>15</sup></time>
 							<span class="flow-title">
-								Sosyal Medyada Güvende miyiz ?
+								Sosyal medya ve siber suça karışma potansiyelimiz
 							</span>
 							<span class="flow-body">
+								Derya İren<br>
 								Emniyet Müdürlüğü Siber Suçlarla Mücadele Dairesi
 							</span>
 						</div>
@@ -300,6 +301,7 @@
 										</span>
 									</div>
 								</li>
+								<!--
 								<li>
 									<div>
 										<span class="triangle"></span>
@@ -315,6 +317,7 @@
 										</span>
 									</div>
 								</li>
+								-->
 							</ul>
 						</section>
 				</div>
@@ -398,26 +401,9 @@
 							<figure class="effect-sadie">
 								<img src="assets/images/speakers/person.png" alt="Siber Suçlarla Mücadele Dairesi Başkanlığı"/>
 								<figcaption>
-									<h2><span>---</span></h2>
+									<h2><span>Derya İren</span></h2>
 									<p>
 										<span>Siber Suçlarla Mücadele Dairesi</span>
-									</p>
-								</figcaption>
-							</figure>
-						</div>
-						<div class="col-md-3">
-							<figure class="effect-sadie">
-								<img src="assets/images/speakers/bahtiyar.jpeg" alt="Bahtiyar Bircan"/>
-								<figcaption>
-									<h2><span>Bahtiyar Bircan</span></h2>
-									<p>
-										<span>Barikat Bilişim</span>
-										<a class="social" href="https://twitter.com/bahtiyarb" target="_blank">
-											<i class="fa fa-twitter-square"></i>
-										</a>
-										<a class="social" href="https://www.linkedin.com/in/bahtiyarbircan/" target="_blank">
-											<i class="fa fa-linkedin-square"></i>
-										</a>
 									</p>
 								</figcaption>
 							</figure>
@@ -434,32 +420,32 @@
 							</figure>
 						</div>
 						<div class="col-md-3">
-								<figure class="effect-sadie">
-									<img src="assets/images/speakers/burak.png" alt="Burak Silvan"/>
-									<figcaption>
-										<h2><span>Burak Silvan</span></h2>
-										<p>
-											<span>Yedaş</span>
-										</p>
-									</figcaption>
-								</figure>
-							</div>
+							<figure class="effect-sadie">
+								<img src="assets/images/speakers/burak.png" alt="Burak Silvan"/>
+								<figcaption>
+									<h2><span>Burak Silvan</span></h2>
+									<p>
+										<span>Yedaş</span>
+									</p>
+								</figcaption>
+							</figure>
+						</div>
+						<div class="col-md-3">
+							<figure class="effect-sadie">
+								<img src="assets/images/speakers/mehmet_can.jpeg" alt="Mehmet Can Demir"/>
+								<figcaption>
+									<h2><span>Mehmet Can Demir</span></h2>
+									<p>
+										<span>BTRisk</span>
+										<a class="social" href="https://www.linkedin.com/in/mehmet-can-demir-0009b1bb/" target="_blank">
+											<i class="fa fa-linkedin-square"></i>
+										</a>
+									</p>
+								</figcaption>
+							</figure>
+						</div>
 					</div>
 				<div class="row">
-						<div class="col-md-3">
-								<figure class="effect-sadie">
-									<img src="assets/images/speakers/mehmet_can.jpeg" alt="Mehmet Can Demir"/>
-									<figcaption>
-										<h2><span>Mehmet Can Demir</span></h2>
-										<p>
-											<span>BTRisk</span>
-											<a class="social" href="https://www.linkedin.com/in/mehmet-can-demir-0009b1bb/" target="_blank">
-												<i class="fa fa-linkedin-square"></i>
-											</a>
-										</p>
-									</figcaption>
-								</figure>
-							</div>
 						<div class="col-md-3">
 								<figure class="effect-sadie">
 									<img src="assets/images/speakers/oguz.png" alt="Oğuz Emre Kural"/>
@@ -470,7 +456,7 @@
 										</p>
 									</figcaption>
 								</figure>
-							</div>
+						</div>
 			<div class="col-md-3">
 			  <figure class="effect-sadie">
 				<img src="assets/images/speakers/meryem.png" alt="Meryem Soysaldı"/>
@@ -532,16 +518,28 @@
 							<img src="assets/images/sponsors/yedas.jpg" alt="Yedaş"/>
 					</a>
 				</div>
+				<div class="row sponsor gold-sponsor">
+					<h3>Gümüş Sponsor</h3>
+					<a href="http://www.barikat.com.tr/tr/" target="_blank">
+						<img src="assets/images/sponsors/barikat.png" alt="Barikat Bilişim A.Ş."/>
+					</a>
+				</div>
 				<div class="row sponsor main-sponsor">
 					<h3>Bronz Sponsor</h3>
 					<a href="https://radore.com/" target="_blank">
 						<img src="assets/images/sponsors/radore.png" alt="Radore Veri Merkezi"/>
 					</a>
 				</div>
-				<div class="row sponsor main-sponsor">
+				<div class="row sponsor">
 					<h3>Yiyecek Sponsoru</h3>
 					<a href="http://www.samsuntb.org.tr/" target="_blank">
-						<img src="assets/images/sponsors/samsuntb.jpg" alt="Samsun Ticaret Borsası"/>
+						<img src="assets/images/sponsors/samsuntb.png" alt="Samsun Ticaret Borsası"/>
+					</a>
+					<a href="http://www.otat.com.tr/" target="_blank">
+						<img src="assets/images/sponsors/otat.png" alt="Otat"/>
+					</a>
+					<a href="http://www.resumecigkofte.com/" target="_blank">
+						<img src="assets/images/sponsors/resume.png" alt="Resume Çiğ Köfte"/>
 					</a>
 				</div>	
 				<div class="row supporters">
@@ -549,14 +547,17 @@
 					<a href="https://www.btk.gov.tr/" target="_blank">
 							<img src="assets/images/supporters/btk.jpg" alt="Bilgi Teknolojileri Kurumu"/>
 					</a>
+					<a href="https://www.omu.edu.tr/" target="_blank">
+						<img src="assets/images/supporters/omu.png" alt="Ondokuz Mayıs Üniversitesi"/>
+					</a>
 					<a href="https://www.siber.pol.tr/" target="_blank">
 						<img src="assets/images/supporters/siber-suclar.png" alt="Siber Suçlarla Mücadele"/>
-				</a>
+					</a>
 					<a href="https://www.samsunteknopark.com/" target="_blank">
 						<img src="assets/images/supporters/teknopark.jpeg" alt="Samsun Teknopark"/>
 					</a>
-					<a href="#" target="_blank">
-							<img src="assets/images/supporters/sechool.png" alt="Sechool"/>
+					<a href="https://sechool.com.tr" target="_blank">
+						<img src="assets/images/supporters/sechool.png" alt="Sechool"/>
 					</a>
 					<a href="https://twitter.com/bl4ckb0xteam" target="_blank">
 							<img src="assets/images/supporters/blackbox.png" alt="BlackBox Security"/>
@@ -578,6 +579,9 @@
 					</a>
 					<a href="https://siber.boun.edu.tr/" target="_blank">
 						<img src="assets/images/supporters/busiber.png" alt="BUSiber"/>
+					</a>
+					<a href="http://chickenesh.com.tr/" target="_blank">
+						<img src="assets/images/supporters/chickenesh-cool.png" alt="Chickenesh Cool"/>
 					</a>
 					<a href="http://www.aridoshika.com/" target="_blank">
 						<img src="assets/images/supporters/aridoshika.png" alt="Aridoshika"/>
