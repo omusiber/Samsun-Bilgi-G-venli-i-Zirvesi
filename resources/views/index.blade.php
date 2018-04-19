@@ -187,7 +187,7 @@
 							<span class="session-body">Oturum</span>
 							<time>14<sup>30</sup> - 15<sup>15</sup></time>
 							<span class="flow-title">
-								Sosyal medya ve siber suça karışma potansiyelimiz
+								Sosyal Medya ve Siber Suça Karışma Potansiyelimiz
 							</span>
 							<span class="flow-body">
 								Derya İren<br>
@@ -215,10 +215,11 @@
 								<span class="session-body">Oturum</span>
 								<time>15<sup>45</sup> - 16<sup>30</sup></time>
 								<span class="flow-title">
-									Akıllı Şebekede Siber Güvenlik
+									Akıllı Şebekelerde Siber Güvenlik
 								</span>
 								<span class="flow-body">
-									H. Gökhan Şahin<br>
+									H. Gökhan Şahin - Burak Silvan<br>
+									Yeşilırmak Elektrik Dağıtım A.Ş.
 								</span>
 							</div>
 						</li>
@@ -265,11 +266,12 @@
 										<span class="session-body">Oturum</span>
 										<time>09<sup>30</sup>- 10<sup>15</sup></time>
 										<span class="flow-title">
-											Mobil Uygulamalarda İzinler
+											Mobil Uygulamalarda İzinler ve Dijital Hak Yönetimi
 										</span>
 										<span class="flow-body">
 											Durmuş Özkan Şahin - Oğuz Emre Kural<br>
-											Ondokuz Mayıs Üniversitesi
+											Meryem Soysaldı <br>
+											Ondokuz Mayıs Üniversitesi Arş. Gör.
 										</span>
 									</div>
 								</li>
@@ -280,11 +282,11 @@
 										<span class="session-body">Oturum</span>
 										<time>10<sup>15</sup> - 11<sup>00</sup></time>
 										<span class="flow-title">
-											Siber Tehdit ve Yeni Nesil Ataklar
+											Kişisel Verileri Koruma Kanunu ve Bilişim Etiği
 										</span>
 										<span class="flow-body">
-											Mustafa Altınkaynak<br>
-											Barikat Bilişim A.Ş.
+											Mustafa Solmaz<br>
+											Ondokuz Mayıs Üniversitesi Öğr. Gör.
 										</span>
 									</div>
 								</li>
@@ -301,23 +303,29 @@
 										</span>
 									</div>
 								</li>
-								<!--
 								<li>
 									<div>
 										<span class="triangle"></span>
-										<span class="session-title">4.</span>
+										<span class="session-title">3.</span>
 										<span class="session-body">Oturum</span>
 										<time>11<sup>30</sup> - 12<sup>30</sup></time>
 										<span class="flow-title">
-											Siber Güvenlikte Girişimcilik
+											Siber Tehdit ve Yeni Nesil Ataklar
 										</span>
 										<span class="flow-body">
-											Gökay Bekşen<br>
-											Ottosis
+											Mustafa Altınkaynak<br>
+											Barikat Bilişim A.Ş.
 										</span>
 									</div>
 								</li>
-								-->
+								<li>
+									<div>
+										<time>12<sup>30</sup> - 13<sup>00</sup></time>
+										<span class="flow-title">
+											Kapanış ve CTF Ödül Töreni
+										</span>
+									</div>
+								</li>
 							</ul>
 						</section>
 				</div>
@@ -344,92 +352,58 @@
 						</figcaption>
 					</figure>
 				</div>
-			<div class="col-md-3">
-			  <figure class="effect-sadie">
-				<img src="assets/images/speakers/caner.jpeg" alt="Caner Köroğlu"/>
-				<figcaption>
-				  <h2><span>Caner Köroğlu</span></h2>
-				  <p>
-									<span>Prisma CSI</span>
-					<a class="social" href="https://twitter.com/cnrkrglu" target="_blank">
-					  <i class="fa fa-twitter-square"></i>
-					</a>
-					<a class="social" href="https://www.linkedin.com/in/cnrkrglu/" target="_blank">
-					  <i class="fa fa-linkedin-square"></i>
-					</a>
+				<div class="col-md-3">
+					<figure class="effect-sadie">
+						<img src="assets/images/speakers/person.png" alt="Siber Suçlarla Mücadele Dairesi Başkanlığı"/>
+						<figcaption>
+							<h2><span>Derya İren</span></h2>
+							<p>
+								<span>Siber Suçlarla Mücadele Dairesi</span>
+							</p>
+						</figcaption>
+					</figure>
+				</div>
+				<div class="col-md-3">
+						<figure class="effect-sadie">
+							<img src="assets/images/speakers/hasan.jpg" alt="Hasan Gökhan Şahin"/>
+							<figcaption>
+								<h2><span>H. Gökhan Şahin</span></h2>
+								<p>
+									<span>Yedaş</span>
 								</p>
-				</figcaption>
-			  </figure>
-			</div>
-			<div class="col-md-3">
-			  <figure class="effect-sadie">
-				<img src="assets/images/speakers/gokay.jpeg" alt="Gökay Bekşen"/>
-				<figcaption>
-				  <h2><span>Gökay Bekşen</span></h2>
-				  <p>
-									<span>Ottosis Teknoloji</span>
-					<a class="social" href="https://twitter.com/GokayBeksen" target="_blank">
-					  <i class="fa fa-twitter-square"></i>
-					</a>
-					<a class="social" href="https://www.linkedin.com/in/gokaybeksen/" target="_blank">
-					  <i class="fa fa-linkedin-square"></i>
-					</a>
-				  </p>
-				</figcaption>
-			  </figure>
-			</div>
-			<div class="col-md-3">
-			  <figure class="effect-sadie">
-				<img src="assets/images/speakers/mustafa.jpeg" alt="Mustafa Altınkaynak"/>
-				<figcaption>
-				  <h2><span>Mustafa Altınkaynak</span></h2>
-				  <p>
-									<span>Barikat Bilişim</span>
-					<a class="social" href="https://twitter.com/m_altinkaynak" target="_blank">
-					  <i class="fa fa-twitter-square"></i>
-					</a>
-					<a class="social" href="https://www.linkedin.com/in/altinkaynak/" target="_blank">
-					  <i class="fa fa-linkedin-square"></i>
-					</a>
-				  </p>
-				</figcaption>
-			  </figure>
-			</div>
+							</figcaption>
+						</figure>
+					</div>
+					<div class="col-md-3">
+						<figure class="effect-sadie">
+							<img src="assets/images/speakers/burak.png" alt="Burak Silvan"/>
+							<figcaption>
+								<h2><span>Burak Silvan</span></h2>
+								<p>
+									<span>Yedaş</span>
+								</p>
+							</figcaption>
+						</figure>
+					</div>
 				</div>
 				<div class="row">
 						<div class="col-md-3">
 							<figure class="effect-sadie">
-								<img src="assets/images/speakers/person.png" alt="Siber Suçlarla Mücadele Dairesi Başkanlığı"/>
+								<img src="assets/images/speakers/caner.jpeg" alt="Caner Köroğlu"/>
 								<figcaption>
-									<h2><span>Derya İren</span></h2>
-									<p>
-										<span>Siber Suçlarla Mücadele Dairesi</span>
-									</p>
+								<h2><span>Caner Köroğlu</span></h2>
+								<p>
+									<span>Prisma CSI</span>
+									<a class="social" href="https://twitter.com/cnrkrglu" target="_blank">
+									<i class="fa fa-twitter-square"></i>
+									</a>
+									<a class="social" href="https://www.linkedin.com/in/cnrkrglu/" target="_blank">
+									<i class="fa fa-linkedin-square"></i>
+									</a>
+												</p>
 								</figcaption>
 							</figure>
-						</div>
-						<div class="col-md-3">
-							<figure class="effect-sadie">
-								<img src="assets/images/speakers/hasan.jpg" alt="Hasan Gökhan Şahin"/>
-								<figcaption>
-									<h2><span>H. Gökhan Şahin</span></h2>
-									<p>
-										<span>Yedaş</span>
-									</p>
-								</figcaption>
-							</figure>
-						</div>
-						<div class="col-md-3">
-							<figure class="effect-sadie">
-								<img src="assets/images/speakers/burak.png" alt="Burak Silvan"/>
-								<figcaption>
-									<h2><span>Burak Silvan</span></h2>
-									<p>
-										<span>Yedaş</span>
-									</p>
-								</figcaption>
-							</figure>
-						</div>
+							</div>
 						<div class="col-md-3">
 							<figure class="effect-sadie">
 								<img src="assets/images/speakers/mehmet_can.jpeg" alt="Mehmet Can Demir"/>
@@ -444,41 +418,69 @@
 								</figcaption>
 							</figure>
 						</div>
+						<div class="col-md-3">
+								<figure class="effect-sadie">
+									<img src="assets/images/speakers/mustafa.jpeg" alt="Mustafa Altınkaynak"/>
+									<figcaption>
+									<h2><span>Mustafa Altınkaynak</span></h2>
+									<p>
+														<span>Barikat Bilişim</span>
+										<a class="social" href="https://twitter.com/m_altinkaynak" target="_blank">
+										<i class="fa fa-twitter-square"></i>
+										</a>
+										<a class="social" href="https://www.linkedin.com/in/altinkaynak/" target="_blank">
+										<i class="fa fa-linkedin-square"></i>
+										</a>
+									</p>
+									</figcaption>
+								</figure>
+								</div>
+								<div class="col-md-3">
+										<figure class="effect-sadie">
+											<img src="assets/images/speakers/mustafa-solmaz.jpg" alt="Mustafa Solmaz"/>
+											<figcaption>
+												<h2><span>Mustafa Solmaz</span></h2>
+												<p>
+														<span>Ondokuz Mayıs Üniversitesi Öğr. Gör.</span>
+												</p>
+											</figcaption>
+										</figure>
+									</div>
 					</div>
 				<div class="row">
 						<div class="col-md-3">
-								<figure class="effect-sadie">
-									<img src="assets/images/speakers/oguz.png" alt="Oğuz Emre Kural"/>
-									<figcaption>
-										<h2><span>Oğuz Emre Kural</span></h2>
-										<p>
-												<span>Ondokuz Mayıs Üniversitesi</span>
-										</p>
-									</figcaption>
-								</figure>
-						</div>
-			<div class="col-md-3">
-			  <figure class="effect-sadie">
-				<img src="assets/images/speakers/meryem.png" alt="Meryem Soysaldı"/>
-				<figcaption>
-				  <h2><span>Meryem Soysaldı</span></h2>
-				  <p>
-						<span>Ondokuz Mayıs Üniversitesi</span>
-				  </p>
-				</figcaption>
-			  </figure>
-			</div>
-			<div class="col-md-3">
-			  <figure class="effect-sadie">
-				<img src="assets/images/speakers/durmus.png" alt="Durmuş Özkan Şahin"/>
-				<figcaption>
-				  <h2><span>Durmuş Özkan Şahin</span></h2>
-				  <p>
-						<span>Ondokuz Mayıs Üniversitesi</span>
-				  </p>
-				</figcaption>
-			  </figure>
-			</div>
+						<figure class="effect-sadie">
+							<img src="assets/images/speakers/oguz.png" alt="Oğuz Emre Kural"/>
+							<figcaption>
+								<h2><span>Oğuz Emre Kural</span></h2>
+								<p>
+										<span>Ondokuz Mayıs Üniversitesi Arş. Gör.</span>
+								</p>
+							</figcaption>
+						</figure>
+					</div>
+					<div class="col-md-3">
+					<figure class="effect-sadie">
+						<img src="assets/images/speakers/meryem.png" alt="Meryem Soysaldı"/>
+						<figcaption>
+						<h2><span>Meryem Soysaldı</span></h2>
+						<p>
+								<span>Ondokuz Mayıs Üniversitesi Arş. Gör.</span>
+						</p>
+						</figcaption>
+					</figure>
+					</div>
+					<div class="col-md-3">
+					<figure class="effect-sadie">
+						<img src="assets/images/speakers/durmus.png" alt="Durmuş Özkan Şahin"/>
+						<figcaption>
+						<h2><span>Durmuş Özkan Şahin</span></h2>
+						<p>
+								<span>Ondokuz Mayıs Üniversitesi Arş. Gör.</span>
+						</p>
+						</figcaption>
+					</figure>
+					</div>
 		  </div>
 		  </div>
 		</div>
@@ -531,7 +533,7 @@
 					</a>
 				</div>
 				<div class="row sponsor">
-					<h3>Yiyecek Sponsoru</h3>
+					<h3>Gıda Sponsoru</h3>
 					<a href="http://www.samsuntb.org.tr/" target="_blank">
 						<img src="assets/images/sponsors/samsuntb.png" alt="Samsun Ticaret Borsası"/>
 					</a>
@@ -552,6 +554,9 @@
 					</a>
 					<a href="https://www.siber.pol.tr/" target="_blank">
 						<img src="assets/images/supporters/siber-suclar.png" alt="Siber Suçlarla Mücadele"/>
+					</a>
+					<a href="http://www.atakum.bel.tr" target="_blank">
+						<img src="assets/images/supporters/atakum.png" alt="Atakum Belediyesi"/>
 					</a>
 					<a href="https://www.samsunteknopark.com/" target="_blank">
 						<img src="assets/images/supporters/teknopark.jpeg" alt="Samsun Teknopark"/>
