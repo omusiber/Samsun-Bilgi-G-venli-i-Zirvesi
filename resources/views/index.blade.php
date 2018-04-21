@@ -60,9 +60,11 @@
 			<ul class="nav-list">
 				<li class="current"><a class="smoothscroll" href="#home" title="">Başlangıç</a></li>
 				<li><a class="smoothscroll" href="#about" title="">Hakkında</a></li>
+				<li><a class="smoothscroll" href="#program" title="">İçerik</a></li>
 				<li><a class="smoothscroll" href="#speakers" title="">Konuşmacılar</a></li>
 				<li><a class="smoothscroll" href="#omuctf" title="">OMUCTF'18 Final</a></li>
-				<li><a class="smoothscroll" href="#program" title="">İçerik</a></li>
+				<li><a class="smoothscroll" href="#projects" title="">Bitirme Projeleri</a></li>
+				<li><a class="smoothscroll" href="#lottery" title="">Çekiliş</a></li>
 				<li><a class="smoothscroll" href="#sponsors" title="">Sponsorlar</a></li>
 				<li><a class="smoothscroll" href="#register" title="">Kayıt</a></li>						
 			</ul>	
@@ -436,16 +438,16 @@
 								</figure>
 								</div>
 								<div class="col-md-3">
-										<figure class="effect-sadie">
-											<img src="assets/images/speakers/mustafa-solmaz.jpg" alt="Mustafa Solmaz"/>
-											<figcaption>
-												<h2><span>Mustafa Solmaz</span></h2>
-												<p>
-														<span>Ondokuz Mayıs Üniversitesi Öğr. Gör.</span>
-												</p>
-											</figcaption>
-										</figure>
-									</div>
+									<figure class="effect-sadie">
+										<img src="assets/images/speakers/mustafa-solmaz.jpg" alt="Mustafa Solmaz"/>
+										<figcaption>
+											<h2><span>Mustafa Solmaz</span></h2>
+											<p>
+													<span>Ondokuz Mayıs Üniversitesi Öğr. Gör.</span>
+											</p>
+										</figcaption>
+									</figure>
+								</div>
 					</div>
 				<div class="row">
 						<div class="col-md-3">
@@ -489,19 +491,58 @@
    <!-- omuctf
    ================================================== -->
    <section id="omuctf">
-		<div class="container">
-			<div class="row">
-				<h3 class="lead animate-this title omuctf">OMUCTF'18 Final</h3>
-				<p>
-					10 Mart 2018'de online olarak düzenlenen OMUCTF'18 in final aşaması Samsun Bilgi Güvenliği Zirvesi organizasyonu kapsamında 
-					Samsun Teknopark Kuluçka Merkezi'nde gerçekleşecektir.
+	<div class="container">
+		<div class="row">
+			<h3 class="lead animate-this title">OMUCTF'18 Final</h3>
+			<p>
+				10 Mart 2018'de yarı finali online olarak düzenlenen OMUCTF'18 in final aşaması Samsun Bilgi Güvenliği Zirvesi organizasyonu kapsamında 
+				Samsun Teknopark Kuluçka Merkezi'nde gerçekleşecektir.
+			</p>
+			<p>
+				Yarışma, etkinlik ile eş zamanlı başlayacak olup eş zamanlı bitecektir. Her biri en fazla 3 kişi olmak üzere toplam 8 takımın ağırlanacağı bu siber güvenlik yarışmasında
+				siber güvenlik yarışmalarının yayılması hedeflenmektedir.
+			</p>
+		</div>
+	</div> <!-- end about-wrap  -->
+	</section> <!-- end about -->
+
+
+	<!-- projects
+   ================================================== -->
+   <section id="projects">
+	<div class="container">
+		<div class="row">
+			<h3 class="lead animate-this title">BİTİRME PROJELERİ</h3>
+			<p>
+				Etkinlik ile eş zamanlı olarak, Bilgisayar Mühendisliği Bitirme Projeleri sergisi olacağından dolayı, katılımcılar koridor boyunca tanıtım ve sponsor stantlarının yanı sıra çeşitli projelerin olduğu
+				proje stantlarını da gezme fırsatı bulabilecektir.
+			</p>
+		</div>
+	</div> <!-- end about-wrap  -->
+	</section> <!-- end about -->
+
+	<!-- lottery
+   ================================================== -->
+   <section id="lottery">
+	<div class="container">
+		<div class="row">
+			<h3 class="lead animate-this title">ÇEKİLİŞ</h3>
+			<p>
+				Oturum aralarında gerçekleştirilecek olan çekilişlerle katılımcılarımız birbirinden güzel hediyeler kazanma şansına sahip olacaklardır.
+				Çekilişe hak kazanmak için etkinlik başlangıcında girişteki kayıt masaları aracılığıyla <span style="font-weight:900">kaydınızı yaptırmayı</span> unutmayın!
+			</p>
+			<ul class="lottery">
+				<li>1 Kişiye 750 TL değerinde SECHOOL "Web Güvenliği ve Sızma Testi" Eğitimi</li>
+				<li>5 kişiye Udemy BUSiber Beyaz Şapkalı Hacker Kurs Kuponu</li>
+				<li>10 kişiye Arka Kapı Dergisi</li>
+				<li>6 kişiye Sanal Gerçeklik Gözlüğü</li>
+				<p style="text-align:center;font-weight:bold">
+					ve daha fazlası...
 				</p>
-				<p style="text-align:center">
-					İçerik düzenlenmektedir.
-				</p>
-			</div>
-		</div> <!-- end about-wrap  -->
-		</section> <!-- end about -->
+			</ul>
+		</div>
+	</div> <!-- end about-wrap  -->
+	</section> <!-- end about -->
 
    <!-- sponsors
    ================================================== -->
@@ -587,6 +628,9 @@
 					</a>
 					<a href="http://chickenesh.com.tr/" target="_blank">
 						<img src="assets/images/supporters/chickenesh-cool.png" alt="Chickenesh Cool"/>
+					</a>
+					<a href="https://www.redbull.com/tr-tr/" target="_blank">
+						<img src="assets/images/supporters/redbull.png" alt="Redbull"/>
 					</a>
 					<a href="http://www.aridoshika.com/" target="_blank">
 						<img src="assets/images/supporters/aridoshika.png" alt="Aridoshika"/>

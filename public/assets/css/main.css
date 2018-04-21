@@ -3195,6 +3195,7 @@ div.social a:hover, div.social a:focus, a.social:hover, a.social:focus {
 
 p {
   font-family: 'Lato', sans-serif;  
+  text-align: justify;
 }
 
 @media all and (max-width:991px) {
@@ -3491,11 +3492,16 @@ span.session-break {
   }
 }
 
-.omuctf {
-  background: #e1e1e1;
-  border-radius: 10px !important;
+ul.lottery {
+  list-style: none;
+  font-family: 'Lato', sans-serif;
+  margin: 0;
 }
 
+ul.lottery li {
+  text-align: center;
+  margin: 5px;
+}
 
 
 ::-webkit-scrollbar {
