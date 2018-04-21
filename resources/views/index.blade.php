@@ -575,9 +575,6 @@
 				</div>
 				<div class="row sponsor">
 					<h3>Gıda Sponsoru</h3>
-					<a href="http://www.samsuntb.org.tr/" target="_blank">
-						<img src="assets/images/sponsors/samsuntb.png" alt="Samsun Ticaret Borsası"/>
-					</a>
 					<a href="http://www.otat.com.tr/" target="_blank">
 						<img src="assets/images/sponsors/otat.png" alt="Otat"/>
 					</a>
