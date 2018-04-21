@@ -794,6 +794,7 @@
     	<div id="loader"></div>
    </div> 
 
+
    <!-- Java Script
    ================================================== --> 
 	 <script src="assets/js/jquery-2.1.3.min.js"></script>
@@ -801,6 +802,15 @@
    <script src="assets/js/plugins.js"></script>
    <script src="assets/js/main.js"></script>
    <script src="assets/js/countdown.js"></script>
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-117915777-1"></script>
+	<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	gtag('config', 'UA-117915777-1');
+	</script>
 
 </body>
 
