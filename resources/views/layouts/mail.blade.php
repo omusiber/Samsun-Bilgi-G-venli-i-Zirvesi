@@ -60,7 +60,7 @@
             <div class="row info">
                     Yer: Ondokuz Mayıs Üniversitesi Mühendislik Fakültesi Konferans Salonu<br>
                     Tarih: 26 - 27 Nisan 2018<br>
-                    Saat: 09.30 - 17.00 / 10.00 - 12.30
+                    Saat: 13.00 - 18.00 / 09.30 - 13.00
                 </div>
         </div>  
     </body>
