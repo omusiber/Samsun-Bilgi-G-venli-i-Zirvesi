@@ -675,7 +675,6 @@
                <div class="form-field">
 	              	<input type="text" name="from" id="contactCorp" placeholder="Kurum / Okul" required=""/>
 							</div> 
-							<div class="g-recaptcha" data-sitekey="6LcP11EUAAAAABry_WkHpbZdMKu5vrhyx3Guywkx"></div>
 							
 
                <div class="form-field">

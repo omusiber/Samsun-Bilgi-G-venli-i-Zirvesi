@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
+use App\Jobs\SendMailtoNewParticipant;
 use App\Participant;
 use Mail;
 
@@ -17,11 +18,6 @@ class SiteController extends Controller
         if(sizeOf(Participant::where('email', $request->email)->get())){
             return "Kaydınız zaten bulunmaktadır!";
         }
-        
-        if($request->input('g-recaptcha-response') == ""){
-            return abort(500);
-        }
-
         $participant = Participant::create([
             'name' => $request->name,
             'email' => $request->email,
@@ -29,11 +25,15 @@ class SiteController extends Controller
             'from' => $request->from
         ]);
 
+        return $this->dispatch((new SendMailtoNewParticipant($participant)));
+        
+        /*
         Mail::send('mails.register', ['participant' => $participant], function ($message) use ($participant){
             $message->from('bilgi@bilgiguvenligizirvesi.com', 'Samsun Bilgi Güvenliği Zirvesi');
             $message->to($participant->email)->subject('Kaydınız alınmıştır!');
         });
         return "Kaydınız başarıyla oluşturuldu!";
+        */
     }
 
 
