@@ -91,7 +91,7 @@
 				  			</h1>
 								<h1 class="animate-intro" style="font-size: 2rem">
 									<i class="fa fa-map-marker"></i>
-									Mühendislik Fakültesi Konferans Salonu
+									UZEM Konferans Salonu
 								</h1>	
 								<div class="container"></div>					
 
@@ -129,7 +129,6 @@
 					<p>
 							Bilgi ve iletişim teknolojileri, her geçen gün sundukları yeniliklerle hayatımızın vazgeçilmez bir parçası haline gelmiştir. Bilgi edinme ve paylaşma araçlarının bilinçsiz kullanımı sonucu; siber saldırı ve mobil dolandırıcı mağduru sayısı her geçen gün artmaktadır. <br>
 							Sosyal medya ve alışveriş siteleri başta olmak üzere İnternet ve mobil hat kullanıcılarının karşılaşabileceği olası tehditler konusunda katılımcıların bilgilendirilmesi konferansın öncelikli hedefidir.<br>
-							Etkinlik kapsamında güncel siber tehditler konusunda uzman konuşmacılar katılımcıları bilgilendirirken gerçekleştirilecek çekilişler ile birbirinden değerli hediyeler kazanma şansı yakalayabilir, etkinlik alanında sergilenecek OMÜ Bilgisayar Mühendisliği bitirme projelerini gezebilir ve Samsun Teknopark Kuluçka Merkezi'nde konferans ile eş zamanlı olarak gerçekleştirilecek OMUCTF'18 Final yarışması heyecanını birlikte paylaşabilirsiniz.<br>
 							Ondokuz Mayıs Üniversitesi Siber Güvenlik Topluluğu tarafından gelenekselleştirilmesi planlanan Samsun Bilgi Güvenliği Zirvesi; Samsun'un ülkemizdeki stratejik konumuna dikkat çekmek ve bilgi güvenliği alanıyla Samsun ilini özdeşleştirmeyi hedeflemektedir.
 					</p>
 				</div>
@@ -146,190 +145,116 @@
 		<div class="tab-wrapper">
 				
 		<ul class="tab-menu">
-			<li class="active">26 Nisan</li>
-			<li>27 Nisan</li>
+			<li class="active">24 Nisan</li>
 		</ul>
 		<div class="tab-content">
-		<div>
-		<section class="timeline">
-				<ul>
-					<li>
-						<div>
-							<span class="triangle"></span>
-							<span class="session-title">1.</span>
-							<span class="session-body">Oturum</span>
-							<time>13<sup>00</sup>- 13<sup>45</sup></time>
-							<span class="flow-title">
-								Açılış
-							</span>
-							<span class="flow-body">
-								Protokol Konuşmaları<br>
-							</span>
-						</div>
-					</li>
-					<li>
-						<div>
-							<span class="triangle"></span>
-							<span class="session-title">1.</span>
-							<span class="session-body">Oturum</span>
-							<time>13<sup>45</sup> - 14<sup>30</sup></time>
-							<span class="flow-title">
-								Hacker Mantığı
-							</span>
-							<span class="flow-body">
-								Onur Aktaş<br>
-								Bilgi Teknolojileri Kurumu
-							</span>
-						</div>
-					</li>
-					<li>
-						<div>
-							<span class="triangle"></span>
-							<span class="session-title">1.</span>
-							<span class="session-body">Oturum</span>
-							<time>14<sup>30</sup> - 15<sup>15</sup></time>
-							<span class="flow-title">
-								Sosyal Medya ve Siber Suça Karışma Potansiyelimiz
-							</span>
-							<span class="flow-body">
-								Derya İren<br>
-								Emniyet Müdürlüğü Siber Suçlarla Mücadele Dairesi
-							</span>
-						</div>
-					</li>
-					<li>
-						<div>
-							<span class="triangle"></span>
-							<span class="session-title session-break">Ara</span>
-							<time>15<sup>15</sup> - 15<sup>45</sup></time>
-							<span class="flow-title">
-								Ara
-							</span>
-							<span class="flow-body">
-								Oturum Arası ve Çekilişler<br>
-							</span>
-						</div>
-					</li>
-					<li>
-							<div>
-								<span class="triangle"></span>
-								<span class="session-title">2.</span>
-								<span class="session-body">Oturum</span>
-								<time>15<sup>45</sup> - 16<sup>30</sup></time>
-								<span class="flow-title">
-									Akıllı Şebekelerde Siber Güvenlik
-								</span>
-								<span class="flow-body">
-									H. Gökhan Şahin - Burak Silvan<br>
-									Yeşilırmak Elektrik Dağıtım A.Ş.
-								</span>
-							</div>
-						</li>
-						<li>
-							<div>
-								<span class="triangle"></span>
-								<span class="session-title">2.</span>
-								<span class="session-body">Oturum</span>
-								<time>16<sup>30</sup> - 17<sup>15</sup></time>
-								<span class="flow-title">
-									İnternetin Yeraltı Dünyası ve Siber Terörizm
-								</span>
-								<span class="flow-body">
-									Caner Köroğlu<br>
-									Prisma CSI
-								</span>
-							</div>
-						</li>
-						<li>
-							<div>
-								<span class="triangle"></span>
-								<span class="session-title">2.</span>
-								<span class="session-body">Oturum</span>
-								<time>17<sup>15</sup> - 18<sup>00</sup></time>
-								<span class="flow-title">
-									IoT Cihazlarda Güvenlik
-								</span>
-								<span class="flow-body">
-									Mehmet Can Demir<br>
-									BTRisk
-								</span>
-							</div>
-						</li>
-				</ul>
-			</section>
-				</div>
-				<div>
-					<section class="timeline">
-							<ul>
-								<li>
+			<div>
+				<section class="timeline">
+						<ul>
+							<li>
+								<div>
+									<span class="triangle"></span>
+									<span class="session-title">1.</span>
+									<span class="session-body">Oturum</span>
+									<time>10<sup>00</sup>- 13<sup>45</sup></time>
+									<span class="flow-title">
+										Açılış
+									</span>
+									<span class="flow-body">
+										Protokol Konuşmaları<br>
+									</span>
+								</div>
+							</li>
+							<li>
+								<div>
+									<span class="triangle"></span>
+									<span class="session-title">1.</span>
+									<span class="session-body">Oturum</span>
+									<time>13<sup>45</sup> - 14<sup>30</sup></time>
+									<span class="flow-title">
+										Hacker Mantığı
+									</span>
+									<span class="flow-body">
+										Onur Aktaş<br>
+										Bilgi Teknolojileri Kurumu
+									</span>
+								</div>
+							</li>
+							<li>
+								<div>
+									<span class="triangle"></span>
+									<span class="session-title">1.</span>
+									<span class="session-body">Oturum</span>
+									<time>14<sup>30</sup> - 15<sup>15</sup></time>
+									<span class="flow-title">
+										Sosyal Medya ve Siber Suça Karışma Potansiyelimiz
+									</span>
+									<span class="flow-body">
+										Derya İren<br>
+										Emniyet Müdürlüğü Siber Suçlarla Mücadele Dairesi
+									</span>
+								</div>
+							</li>
+							<li>
+								<div>
+									<span class="triangle"></span>
+									<span class="session-title session-break">Ara</span>
+									<time>15<sup>15</sup> - 15<sup>45</sup></time>
+									<span class="flow-title">
+										Ara
+									</span>
+									<span class="flow-body">
+										Oturum Arası ve Çekilişler<br>
+									</span>
+								</div>
+							</li>
+							<li>
 									<div>
 										<span class="triangle"></span>
-										<span class="session-title">3.</span>
+										<span class="session-title">2.</span>
 										<span class="session-body">Oturum</span>
-										<time>09<sup>30</sup>- 10<sup>15</sup></time>
+										<time>15<sup>45</sup> - 16<sup>30</sup></time>
 										<span class="flow-title">
-											Mobil Uygulamalarda İzinler ve Dijital Hak Yönetimi
+											Akıllı Şebekelerde Siber Güvenlik
 										</span>
 										<span class="flow-body">
-											Durmuş Özkan Şahin - Oğuz Emre Kural<br>
-											Meryem Soysaldı <br>
-											Ondokuz Mayıs Üniversitesi Arş. Gör.
+											H. Gökhan Şahin - Burak Silvan<br>
+											Yeşilırmak Elektrik Dağıtım A.Ş.
 										</span>
 									</div>
 								</li>
 								<li>
 									<div>
 										<span class="triangle"></span>
-										<span class="session-title">3.</span>
+										<span class="session-title">2.</span>
 										<span class="session-body">Oturum</span>
-										<time>10<sup>15</sup> - 11<sup>00</sup></time>
+										<time>16<sup>30</sup> - 17<sup>15</sup></time>
 										<span class="flow-title">
-											Kişisel Verileri Koruma Kanunu ve Bilişim Etiği
+											İnternetin Yeraltı Dünyası ve Siber Terörizm
 										</span>
 										<span class="flow-body">
-											Mustafa Solmaz<br>
-											Ondokuz Mayıs Üniversitesi Öğr. Gör.
+											Caner Köroğlu<br>
+											Prisma CSI
 										</span>
 									</div>
 								</li>
 								<li>
 									<div>
 										<span class="triangle"></span>
-										<span class="session-title session-break">Ara</span>
-										<time>11<sup>00</sup> - 11<sup>30</sup></time>
-										<span class="flow-title">
-											Ara
-										</span>
-										<span class="flow-body">
-											Oturum Arası ve Çekilişler<br>
-										</span>
-									</div>
-								</li>
-								<li>
-									<div>
-										<span class="triangle"></span>
-										<span class="session-title">3.</span>
+										<span class="session-title">2.</span>
 										<span class="session-body">Oturum</span>
-										<time>11<sup>30</sup> - 12<sup>30</sup></time>
+										<time>17<sup>15</sup> - 18<sup>00</sup></time>
 										<span class="flow-title">
-											Siber Tehdit ve Yeni Nesil Ataklar
+											IoT Cihazlarda Güvenlik
 										</span>
 										<span class="flow-body">
-											Mustafa Altınkaynak<br>
-											Barikat Bilişim A.Ş.
+											Mehmet Can Demir<br>
+											BTRisk
 										</span>
 									</div>
 								</li>
-								<li>
-									<div>
-										<time>12<sup>30</sup> - 13<sup>00</sup></time>
-										<span class="flow-title">
-											Kapanış ve CTF Ödül Töreni
-										</span>
-									</div>
-								</li>
-							</ul>
-						</section>
+						</ul>
+					</section>
 				</div>
 			</div><!-- //tab-content -->
 		</div><!-- //tab-wrapper -->
@@ -488,39 +413,6 @@
 		</div>
 	  </section>
 
-   <!-- omuctf
-   ================================================== -->
-   <section id="omuctf">
-	<div class="container">
-		<div class="row">
-			<h3 class="lead animate-this title">OMUCTF'18 Final</h3>
-			<p>
-				10 Mart 2018'de yarı finali online olarak düzenlenen OMUCTF'18 in final aşaması Samsun Bilgi Güvenliği Zirvesi organizasyonu kapsamında 
-				Samsun Teknopark Kuluçka Merkezi'nde gerçekleşecektir.
-			</p>
-			<p>
-				Yarışma, etkinlik ile eş zamanlı başlayacak olup eş zamanlı bitecektir. Her biri en fazla 3 kişi olmak üzere toplam 8 takımın ağırlanacağı bu siber güvenlik yarışmasında
-				siber güvenlik yarışmalarının yayılması hedeflenmektedir.
-			</p>
-		</div>
-	</div> <!-- end about-wrap  -->
-	</section> <!-- end about -->
-
-
-	<!-- projects
-   ================================================== -->
-   <section id="projects">
-	<div class="container">
-		<div class="row">
-			<h3 class="lead animate-this title">BİTİRME PROJELERİ</h3>
-			<p>
-				Etkinlik ile eş zamanlı olarak, Bilgisayar Mühendisliği Bitirme Projeleri sergisi olacağından dolayı, katılımcılar koridor boyunca tanıtım ve sponsor stantlarının yanı sıra çeşitli projelerin olduğu
-				proje stantlarını da gezme fırsatı bulabilecektir.
-			</p>
-		</div>
-	</div> <!-- end about-wrap  -->
-	</section> <!-- end about -->
-
 	<!-- lottery
    ================================================== -->
    <section id="lottery">
@@ -528,18 +420,8 @@
 		<div class="row">
 			<h3 class="lead animate-this title">ÇEKİLİŞ</h3>
 			<p>
-				Oturum aralarında gerçekleştirilecek olan çekilişlerle katılımcılarımız birbirinden güzel hediyeler kazanma şansına sahip olacaklardır.
-				Çekilişe hak kazanmak için etkinlik başlangıcında girişteki kayıt masaları aracılığıyla <span style="font-weight:900">kaydınızı yaptırmayı</span> unutmayın!
+				İçerik doldurulacaktır!
 			</p>
-			<ul class="lottery">
-				<li>1 Kişiye 750 TL değerinde SECHOOL "Web Güvenliği ve Sızma Testi" Eğitimi</li>
-				<li>5 kişiye Udemy BUSiber Beyaz Şapkalı Hacker Kurs Kuponu</li>
-				<li>10 kişiye Arka Kapı Dergisi</li>
-				<li>6 kişiye Sanal Gerçeklik Gözlüğü</li>
-				<p style="text-align:center;font-weight:bold">
-					ve daha fazlası...
-				</p>
-			</ul>
 		</div>
 	</div> <!-- end about-wrap  -->
 	</section> <!-- end about -->
@@ -549,6 +431,7 @@
    <section id="sponsors">
     <h3 class="lead animate-this title">Sponsorlar</h3>
     <div class="grid">	
+				<!--
       	<div class="row sponsor main-sponsor">
 					<h3>Ana Sponsor</h3>
 					<a href="http://www.samsuntso.org.tr/" target="_blank">
@@ -636,6 +519,7 @@
 						<img src="assets/images/supporters/siber-ortam.png" alt="Siber Ortam"/>
 					</a>
 				</div>
+				-->
 				<h3 class="banner">Sponsor olmak için <a href="mailto:sponsor@bilgiguvenligizirvesi.com">sponsor@bilgiguvenligizirvesi.com</a></h3>
 				
     </div>

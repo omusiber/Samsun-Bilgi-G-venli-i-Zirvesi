@@ -337,7 +337,7 @@ function Countdown(opt) {
 
 let cd = new Countdown({
   cont: document.querySelector(".container"),
-  endDate: 1556877600000,
+  endDate: 1556100000000,
   outputTranslation: {
     year: "Yıl",
     week: "Hafta",
