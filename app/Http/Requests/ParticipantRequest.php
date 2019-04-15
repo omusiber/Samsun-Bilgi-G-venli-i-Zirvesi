@@ -29,7 +29,7 @@ class ParticipantRequest extends FormRequest
     {
         return [
             'name'  =>  'required|max:255',
-            'email' =>  'required|email|unique',
+            'email' =>  'required|email',
             'phone' =>  'required|max:25',
             'from'  =>  'required|max:255'
         ];

@@ -17,6 +17,7 @@ window.Vue = require('vue');
  */
 
 Vue.component('example-component', require('./components/ExampleComponent.vue'));
+Vue.component('app-register', require('./components/Register.vue'));
 Vue.component('mail-send-one', require('./components/MailSendOne.vue'));
 Vue.component('mail-send-all', require('./components/MailSendAll.vue'));
 

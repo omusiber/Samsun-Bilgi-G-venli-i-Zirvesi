@@ -10,6 +10,7 @@
 	<title>Samsun Bilgi Güvenliği Zirvesi</title>
 	<meta name="description" content="">  
 	<meta name="author" content="">
+	<meta name="csrf-token" content="{{ csrf_token() }}">
 	<link rel="icon" type="image/png" href="assets/images/favicon.jpg">
 
    <!-- mobile specific metas
@@ -545,100 +546,9 @@
 
 	<!-- register
    ================================================== -->
-   <section id="register">
-    <div class="overlay"></div>
-		<div class="container">
-			<div class="row section-intro with-bottom-sep animate-this">
-   		<div class="col-twelve">
-   			<h3>Kayıt Ol</h3>
-
-   			<p class="lead">Etkinliğe katılmak ve çekilişlerden faydalanmak için kayıt olmanız gerekmektedir.</p>
-   		</div> 
-   	</div> <!-- end section-intro -->
-
-   	<div class="row contact-content">
-
-   		<div class="col-seven tab-full animate-this">
-
-            <!-- form -->
-            <form name="contactForm" id="contactForm" method="post">     			
-								{{ csrf_field() }}
-               <div class="form-field">
- 					   <input name="name" type="text" id="contactName" placeholder="Ad Soyad" value="" minlength="2" required="">
-               </div>
-
-                 		<div class="form-field">
-                 			<input name="email" type="email" id="contactEmail" placeholder="Email Adresi" value="" required="">
-                 		</div>		           
-	            		<div class="form-field">
-	            			<input name="phone" type="text" id="contactPhone" placeholder="Telefon" value="">
-	                  </div>	
-                                         
-               <div class="form-field">
-	              	<input type="text" name="from" id="contactCorp" placeholder="Kurum / Okul" required=""/>
-							</div> 
-							
-
-               <div class="form-field">
-                  <button class="submitform" type="submit">Katıl</button>
-
-                  <div id="submit-loader">
-                     <div class="text-loader">Gönderiliyor...</div>                             
-       			      <div class="s-loader">
-							  	<div class="bounce1"></div>
-							  	<div class="bounce2"></div>
-							  	<div class="bounce3"></div>
-							</div>
-						</div>
-               </div>
-
-      		</form> <!-- end form -->
-
-            <!-- contact-warning -->
-						<div id="message-warning"></div> 
-						<div id="message-error"></div> 
-
-            <!-- contact-success -->
-      		<div id="message-success">
-               <i class="fa fa-check"></i>İlginiz için teşekkür ederiz! En kısa zamanda mail ile döneceğiz.<br>
-      		</div>
-
-         </div> <!-- end col-seven --> 
-
-         <div class="col-four tab-full contact-info end animate-this">
-
-         	<h5>Düzenleyen Bilgileri</h5>
-
-         	<div class="cinfo">
-	   			<h6>Bize ulaşın</h6>
-	   			<p>
-	            	Yaşam Merkezi 1. Kat<br>
-	            	Kurupelit Kampüsü, OMU<br>
-	            	Samsun
-	            </p>
-	   		</div> <!-- end cinfo -->
-
-	   		<div class="cinfo social">
-	   			<h6>Email</h6>
-	   			<p>
-	   				siber@omu.edu.tr	     
-				   </p>
-					 <h6>Twitter</h6>
-	   			<p>
-	   				<a target="_blank" href="https://twitter.com/omusiber">@omusiber</a>	     
-				   </p>
-					 <h6>Instagram</h6>
-	   			<p>
-	   				<a target="_blank" href="https://instagram.com/omusiber">omusiber</a>	     
-				   </p>
-	   		</div> <!-- end cinfo -->
-
-         </div> <!-- end cinfo --> 
-
-   	</div> <!-- end row contact-content -->
-		</div>
-		
-	</section> <!-- end contact -->
+	<div id="app">
+		<app-register></app-register>
+	</div>
 
 
 	<!-- footer
@@ -695,6 +605,7 @@
 
    <!-- Java Script
    ================================================== --> 
+	 <script src="{{ asset('js/app.js') }}"></script>
 	 <script src="assets/js/jquery-2.1.3.min.js"></script>
 	 <script src='https://www.google.com/recaptcha/api.js'></script>	 
    <script src="assets/js/plugins.js"></script>
