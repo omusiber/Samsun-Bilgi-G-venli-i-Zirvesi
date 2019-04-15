@@ -15,6 +15,10 @@ class SiteController extends Controller
         return view('index');
     }
 
+    public function last_year(){
+        return view('last_year');
+    }
+
     public function store(ParticipantRequest $request){
         $participant = Participant::create([
             'name' => $request->name,
