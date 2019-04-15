@@ -156,7 +156,7 @@
 									<span class="triangle"></span>
 									<span class="session-title">1.</span>
 									<span class="session-body">Oturum</span>
-									<time>10<sup>00</sup>- 13<sup>45</sup></time>
+									<time>10<sup>00</sup>- 10<sup>15</sup></time>
 									<span class="flow-title">
 										Açılış
 									</span>
@@ -170,9 +170,9 @@
 									<span class="triangle"></span>
 									<span class="session-title">1.</span>
 									<span class="session-body">Oturum</span>
-									<time>13<sup>45</sup> - 14<sup>30</sup></time>
+									<time>10<sup>15</sup> - 11<sup>00</sup></time>
 									<span class="flow-title">
-										Hacker Mantığı
+										5N1K Siber Güvenlik
 									</span>
 									<span class="flow-body">
 										Onur Aktaş<br>
@@ -185,13 +185,13 @@
 									<span class="triangle"></span>
 									<span class="session-title">1.</span>
 									<span class="session-body">Oturum</span>
-									<time>14<sup>30</sup> - 15<sup>15</sup></time>
+									<time>11<sup>15</sup> - 12<sup>00</sup></time>
 									<span class="flow-title">
-										Sosyal Medya ve Siber Suça Karışma Potansiyelimiz
+										Blockchain
 									</span>
 									<span class="flow-body">
-										Derya İren<br>
-										Emniyet Müdürlüğü Siber Suçlarla Mücadele Dairesi
+										Bora Erdamar<br>
+										BlockchainIST Center
 									</span>
 								</div>
 							</li>
@@ -199,12 +199,12 @@
 								<div>
 									<span class="triangle"></span>
 									<span class="session-title session-break">Ara</span>
-									<time>15<sup>15</sup> - 15<sup>45</sup></time>
+									<time>12<sup>00</sup> - 13<sup>00</sup></time>
 									<span class="flow-title">
 										Ara
 									</span>
 									<span class="flow-body">
-										Oturum Arası ve Çekilişler<br>
+										Öğle Molası<br>
 									</span>
 								</div>
 							</li>
@@ -213,13 +213,13 @@
 										<span class="triangle"></span>
 										<span class="session-title">2.</span>
 										<span class="session-body">Oturum</span>
-										<time>15<sup>45</sup> - 16<sup>30</sup></time>
+										<time>13<sup>00</sup> - 13<sup>45</sup></time>
 										<span class="flow-title">
-											Akıllı Şebekelerde Siber Güvenlik
+											Kriptolojik Algoritmaların Geleceği
 										</span>
 										<span class="flow-body">
-											H. Gökhan Şahin - Burak Silvan<br>
-											Yeşilırmak Elektrik Dağıtım A.Ş.
+											Sedat Akleylek<br>
+											Ondokuz Mayıs Üniversitesi
 										</span>
 									</div>
 								</li>
@@ -228,13 +228,13 @@
 										<span class="triangle"></span>
 										<span class="session-title">2.</span>
 										<span class="session-body">Oturum</span>
-										<time>16<sup>30</sup> - 17<sup>15</sup></time>
+										<time>14<sup>00</sup> - 14<sup>45</sup></time>
 										<span class="flow-title">
-											İnternetin Yeraltı Dünyası ve Siber Terörizm
+											Ağ Güvenliği ve Teknolojisi
 										</span>
 										<span class="flow-body">
-											Caner Köroğlu<br>
-											Prisma CSI
+											Barkın Kılıç<br>
+											Innovera
 										</span>
 									</div>
 								</li>
@@ -243,13 +243,28 @@
 										<span class="triangle"></span>
 										<span class="session-title">2.</span>
 										<span class="session-body">Oturum</span>
-										<time>17<sup>15</sup> - 18<sup>00</sup></time>
+										<time>15<sup>00</sup> - 15<sup>45</sup></time>
 										<span class="flow-title">
-											IoT Cihazlarda Güvenlik
+											DDoS Saldırı Vektörü
 										</span>
 										<span class="flow-body">
-											Mehmet Can Demir<br>
-											BTRisk
+											İlker Özçelik<br>
+											Recep Tayyip Erdoğan Üniversitesi
+										</span>
+									</div>
+								</li>
+								<li>
+									<div>
+										<span class="triangle"></span>
+										<span class="session-title">2.</span>
+										<span class="session-body">Oturum</span>
+										<time>16<sup>00</sup> - 16<sup>45</sup></time>
+										<span class="flow-title">
+											Para birimi olarak Bitcoin
+										</span>
+										<span class="flow-body">
+											Oğuz Yayla<br>
+											Hacettepe Üniversitesi
 										</span>
 									</div>
 								</li>
@@ -263,7 +278,7 @@
 
 
   <!-- speakers
-  ================================================== -->
+  ================================================== 
   <section id="speakers">
 		<h3 class="lead animate-this title">Konuşmacılar</h3>
 		<div class="grid container">
@@ -411,10 +426,12 @@
 		  </div>
 		  </div>
 		</div>
-	  </section>
+		</section>
+		
+	-->
 
 	<!-- lottery
-   ================================================== -->
+   ==================================================
    <section id="lottery">
 	<div class="container">
 		<div class="row">
@@ -423,8 +440,9 @@
 				İçerik doldurulacaktır!
 			</p>
 		</div>
-	</div> <!-- end about-wrap  -->
-	</section> <!-- end about -->
+	</div>
+	</section> 
+	-->
 
    <!-- sponsors
    ================================================== -->

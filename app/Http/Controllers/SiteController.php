@@ -20,6 +20,7 @@ class SiteController extends Controller
     }
 
     public function store(ParticipantRequest $request){
+        return "asdasd";
         $participant = Participant::create([
             'name' => $request->name,
             'email' => $request->email,
@@ -27,7 +28,7 @@ class SiteController extends Controller
             'from' => $request->from
         ]);
 
-        $this->dispatch((new SendMailtoNewParticipant($participant)));
+        //$this->dispatch((new SendMailtoNewParticipant($participant)));
 
         return "Kaydınız başarıyla oluşturuldu!";
     }
