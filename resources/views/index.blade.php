@@ -70,10 +70,6 @@
 				<li class="current"><a class="smoothscroll" href="#home" title="">Başlangıç</a></li>
 				<li><a class="smoothscroll" href="#about" title="">Hakkında</a></li>
 				<li><a class="smoothscroll" href="#program" title="">İçerik</a></li>
-				<li><a class="smoothscroll" href="#speakers" title="">Konuşmacılar</a></li>
-				<li><a class="smoothscroll" href="#omuctf" title="">OMUCTF'18 Final</a></li>
-				<li><a class="smoothscroll" href="#projects" title="">Bitirme Projeleri</a></li>
-				<li><a class="smoothscroll" href="#lottery" title="">Çekiliş</a></li>
 				<li><a class="smoothscroll" href="#sponsors" title="">Destekleyenler</a></li>			
 			</ul>	
 		</nav>  <!-- end #menu-nav-wrap -->
