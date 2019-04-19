@@ -74,7 +74,7 @@
 				<li><a class="smoothscroll" href="#omuctf" title="">OMUCTF'18 Final</a></li>
 				<li><a class="smoothscroll" href="#projects" title="">Bitirme Projeleri</a></li>
 				<li><a class="smoothscroll" href="#lottery" title="">Çekiliş</a></li>
-				<li><a class="smoothscroll" href="#sponsors" title="">Sponsorlar</a></li>
+				<li><a class="smoothscroll" href="#sponsors" title="">Destekleyenler</a></li>
 				<li><a class="smoothscroll" href="#register" title="">Kayıt</a></li>						
 			</ul>	
 		</nav>  <!-- end #menu-nav-wrap -->
@@ -471,7 +471,7 @@
    <!-- sponsors
    ================================================== -->
    <section id="sponsors">
-    <h3 class="lead animate-this title">Sponsorlar</h3>
+    <h3 class="lead animate-this title">Destekleyenler</h3>
     <div class="grid">	
 				<!--
       	<div class="row sponsor main-sponsor">
@@ -509,7 +509,6 @@
 				</div>	
 				-->
 				<div class="row supporters" style="margin-bottom: 25px;">
-					<h3>Destekleyenler</h3>
 					<a href="https://www.btk.gov.tr/" target="_blank">
 							<img src="assets/images/supporters/btk.jpg" alt="Bilgi Teknolojileri Kurumu"/>
 					</a>
