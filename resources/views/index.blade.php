@@ -162,7 +162,8 @@
 										Açılış
 									</span>
 									<span class="flow-body">
-										Protokol Konuşmaları<br>
+										Prof. Dr. Erdal Kılıç<br>
+										OMÜ Bilgisayar Mühendisliği Bölüm Başkanı
 									</span>
 								</div>
 							</li>
@@ -171,13 +172,28 @@
 									<span class="triangle"></span>
 									<span class="session-title">1.</span>
 									<span class="session-body">Oturum</span>
-									<time>10<sup>15</sup> - 11<sup>00</sup></time>
+									<time>10<sup>15</sup> - 10<sup>45</sup></time>
 									<span class="flow-title">
-										5N1K Siber Güvenlik
+										Oltalama Saldırıları Analizi ve Korunma Yöntemleri
+									</span>
+									<span class="flow-body">
+										Hakan Altunay<br>
+										Cybernova
+									</span>
+								</div>
+							</li>
+							<li>
+								<div>
+									<span class="triangle"></span>
+									<span class="session-title">1.</span>
+									<span class="session-body">Oturum</span>
+									<time>10<sup>55</sup> - 11<sup>40</sup></time>
+									<span class="flow-title">
+										Siber Güvenlikte 5N1K
 									</span>
 									<span class="flow-body">
 										Onur Aktaş<br>
-										Bilgi Teknolojileri Kurumu
+										Bilgi Teknolojileri ve İletişim Kurumu
 									</span>
 								</div>
 							</li>
@@ -186,13 +202,13 @@
 									<span class="triangle"></span>
 									<span class="session-title">1.</span>
 									<span class="session-body">Oturum</span>
-									<time>11<sup>15</sup> - 12<sup>00</sup></time>
+									<time>11<sup>40</sup> - 12<sup>10</sup></time>
 									<span class="flow-title">
 										Blockchain
 									</span>
 									<span class="flow-body">
-										Bora Erdamar<br>
-										BlockchainIST Center
+										Burak Şekercioğlu<br>
+										Samsun Ticaret ve Sanayi Odası
 									</span>
 								</div>
 							</li>
@@ -200,7 +216,7 @@
 								<div>
 									<span class="triangle"></span>
 									<span class="session-title session-break">Ara</span>
-									<time>12<sup>00</sup> - 13<sup>00</sup></time>
+									<time>12<sup>10</sup> - 13<sup>30</sup></time>
 									<span class="flow-title">
 										Ara
 									</span>
@@ -214,13 +230,13 @@
 										<span class="triangle"></span>
 										<span class="session-title">2.</span>
 										<span class="session-body">Oturum</span>
-										<time>13<sup>00</sup> - 13<sup>45</sup></time>
+										<time>13<sup>30</sup> - 14<sup>15</sup></time>
 										<span class="flow-title">
 											Kriptolojik Algoritmaların Geleceği
 										</span>
 										<span class="flow-body">
 											Sedat Akleylek<br>
-											Ondokuz Mayıs Üniversitesi
+											OMÜ Bilgisayar Mühendisliği
 										</span>
 									</div>
 								</li>
@@ -229,28 +245,13 @@
 										<span class="triangle"></span>
 										<span class="session-title">2.</span>
 										<span class="session-body">Oturum</span>
-										<time>14<sup>00</sup> - 14<sup>45</sup></time>
-										<span class="flow-title">
-											Ağ Güvenliği ve Teknolojisi
-										</span>
-										<span class="flow-body">
-											Barkın Kılıç<br>
-											Innovera
-										</span>
-									</div>
-								</li>
-								<li>
-									<div>
-										<span class="triangle"></span>
-										<span class="session-title">2.</span>
-										<span class="session-body">Oturum</span>
-										<time>15<sup>00</sup> - 15<sup>45</sup></time>
+										<time>14<sup>25</sup> - 15<sup>10</sup></time>
 										<span class="flow-title">
 											DDoS Saldırı Vektörü
 										</span>
 										<span class="flow-body">
 											İlker Özçelik<br>
-											Recep Tayyip Erdoğan Üniversitesi
+											RTEÜ
 										</span>
 									</div>
 								</li>
@@ -259,13 +260,27 @@
 										<span class="triangle"></span>
 										<span class="session-title">2.</span>
 										<span class="session-body">Oturum</span>
-										<time>16<sup>00</sup> - 16<sup>45</sup></time>
+										<time>15<sup>10</sup> - 15<sup>55</sup></time>
 										<span class="flow-title">
-											Para birimi olarak Bitcoin
+											Güvenli İnternet Kullanımı ve Siber Suçlar
 										</span>
 										<span class="flow-body">
-											Oğuz Yayla<br>
-											Hacettepe Üniversitesi
+											Derya İREN - Mehmet YABUL<br>
+											Siber Suçlar Şubesi Samsun İl Emniyet Müdürlüğü
+										</span>
+									</div>
+								</li>
+								<li>
+									<div>
+										<span class="triangle"></span>
+										<span class="session-title">2.</span>
+										<span class="session-body">Oturum</span>
+										<time>15<sup>55</sup> - 16<sup>00</sup></time>
+										<span class="flow-title">
+											Kapanış
+										</span>
+										<span class="flow-body">
+											OMUSiber<br>
 										</span>
 									</div>
 								</li>
