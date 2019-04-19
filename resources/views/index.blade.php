@@ -255,11 +255,11 @@
 										<span class="session-body">Oturum</span>
 										<time>14<sup>25</sup> - 15<sup>10</sup></time>
 										<span class="flow-title">
-											DDoS Saldırı Vektörü
+											Güvenli İnternet Kullanımı ve Siber Suçlar
 										</span>
 										<span class="flow-body">
-											İlker Özçelik<br>
-											RTEÜ
+											Derya İREN - Mehmet YABUL<br>
+											Siber Suçlar Şubesi Samsun İl Emniyet Müdürlüğü
 										</span>
 									</div>
 								</li>
@@ -268,13 +268,13 @@
 										<span class="triangle"></span>
 										<span class="session-title">2.</span>
 										<span class="session-body">Oturum</span>
-										<time>15<sup>10</sup> - 15<sup>55</sup></time>
+										<time>15<sup>20</sup> - 15<sup>55</sup></time>
 										<span class="flow-title">
-											Güvenli İnternet Kullanımı ve Siber Suçlar
+											DDoS Saldırı Vektörü
 										</span>
 										<span class="flow-body">
-											Derya İREN - Mehmet YABUL<br>
-											Siber Suçlar Şubesi Samsun İl Emniyet Müdürlüğü
+											İlker Özçelik<br>
+											RTEÜ
 										</span>
 									</div>
 								</li>
