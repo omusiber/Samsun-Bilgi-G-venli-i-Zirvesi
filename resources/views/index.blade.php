@@ -31,6 +31,14 @@
 	<script src="assets/js/modernizr.js"></script>
 	<script src="assets/js/pace.min.js"></script>
 
+	<!-- inline css -->
+	<style type="text/css">
+		div.row.supporters img {
+			width: 200px;
+			height: 200px;
+		}
+	</style>
+
    <!-- favicons
 	================================================== -->
 	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
@@ -499,7 +507,8 @@
 						<img src="assets/images/sponsors/resume.png" alt="Resume Çiğ Köfte"/>
 					</a>
 				</div>	
-				<div class="row supporters">
+				-->
+				<div class="row supporters" style="margin-bottom: 25px;">
 					<h3>Destekleyenler</h3>
 					<a href="https://www.btk.gov.tr/" target="_blank">
 							<img src="assets/images/supporters/btk.jpg" alt="Bilgi Teknolojileri Kurumu"/>
@@ -507,53 +516,25 @@
 					<a href="https://www.omu.edu.tr/" target="_blank">
 						<img src="assets/images/supporters/omu.png" alt="Ondokuz Mayıs Üniversitesi"/>
 					</a>
+					<a href="http://www.samsuntso.org.tr/" target="_blank">
+						<img src="assets/images/sponsors/samsuntso.png" alt="Samsun Ticaret ve Sanayi Odası"/>						
+					</a>
 					<a href="https://www.siber.pol.tr/" target="_blank">
 						<img src="assets/images/supporters/siber-suclar.png" alt="Siber Suçlarla Mücadele"/>
-					</a>
-					<a href="http://www.atakum.bel.tr" target="_blank">
-						<img src="assets/images/supporters/atakum.png" alt="Atakum Belediyesi"/>
 					</a>
 					<a href="https://www.samsunteknopark.com/" target="_blank">
 						<img src="assets/images/supporters/teknopark.jpeg" alt="Samsun Teknopark"/>
 					</a>
-					<a href="https://sechool.com.tr" target="_blank">
-						<img src="assets/images/supporters/sechool.png" alt="Sechool"/>
+					<a href="https://www.erdogan.edu.tr/" target="_blank">
+						<img src="assets/images/supporters/rteu.jpeg" alt="Recep Tayyip Erdoğan Üniversitesi"/>
 					</a>
-					<a href="https://twitter.com/bl4ckb0xteam" target="_blank">
-							<img src="assets/images/supporters/blackbox.png" alt="BlackBox Security"/>
+					<a href="https://www.cybernova.com.tr/" target="_blank">
+						<img src="assets/images/supporters/cybernova.jpg" alt="CyberNova"/>
 					</a>
-					<a href="https://canyoupwn.me/" target="_blank">
-							<img src="assets/images/supporters/cypm.png" alt="Canyoupwnme"/>
-					</a>
-					<a href="https://poinetr.com/" target="_blank">
-							<img src="assets/images/supporters/poinetr.jpg" alt="PoineTR"/>
-					</a>
-					<a href="https://www.arkakapidergi.com/" target="_blank">
-							<img src="assets/images/supporters/arkakapi.png" alt="Arka Kapı"/>
-					</a>
-					<a href="http://www.bmo.org.tr/" target="_blank">
-						<img src="assets/images/supporters/bm-odasi.png" alt="Bilgisayar Mühendisleri Odası"/>
-					</a>
-					<a href="https://www.sibertakvim.com/" target="_blank">
-						<img src="assets/images/supporters/siber-takvim.png" alt="Siber Takvim"/>
-					</a>
-					<a href="https://siber.boun.edu.tr/" target="_blank">
-						<img src="assets/images/supporters/busiber.png" alt="BUSiber"/>
-					</a>
-					<a href="http://chickenesh.com.tr/" target="_blank">
-						<img src="assets/images/supporters/chickenesh-cool.png" alt="Chickenesh Cool"/>
-					</a>
-					<a href="https://www.redbull.com/tr-tr/" target="_blank">
-						<img src="assets/images/supporters/redbull.png" alt="Redbull"/>
-					</a>
-					<a href="http://www.aridoshika.com/" target="_blank">
-						<img src="assets/images/supporters/aridoshika.png" alt="Aridoshika"/>
-					</a>
-					<a href="https://www.twitter.com/siberortam/" target="_blank">
-						<img src="assets/images/supporters/siber-ortam.png" alt="Siber Ortam"/>
+					<a href="https://www.caykur.com.tr/" target="_blank">
+						<img src="assets/images/supporters/caykur.png" alt="Çaykur"/>
 					</a>
 				</div>
-				-->
 				<h3 class="banner">Sponsor olmak için <a href="mailto:sponsor@bilgiguvenligizirvesi.com">sponsor@bilgiguvenligizirvesi.com</a></h3>
 				
     </div>
@@ -586,9 +567,16 @@
 					
 			 <div class="row">
 					<img src="assets/images/logo.jpg" alt="Logo" style="display: block;margin: 5% auto;">
-				</div>    	    
-
-	      </div> <!-- end row -->
+				</div> <!-- end row -->
+				<hr style="width: 50%;margin:0 auto;border: 2px solid #2b2b2b;">
+				<div class="row" style="text-align:center">
+					<a href="https://www.omu.edu.tr/" target="_blank">
+						<img style="width:120px" src="{{ asset('assets/images/supporters/omu.png') }}" alt="Ondokuz Mayıs Üniversitesi"/>
+					</a>
+					<a href="https://www.omusiber.org/" target="_blank">
+						<img style="width:100px;" src="{{ asset('assets/images/x.png') }}" alt="OMUSiber"/>
+					</a>
+				</div>
 
    	</div> <!-- end footer-main -->
 
