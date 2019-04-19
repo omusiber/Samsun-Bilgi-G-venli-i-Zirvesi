@@ -65,8 +65,7 @@
 				<li><a class="smoothscroll" href="#omuctf" title="">OMUCTF'18 Final</a></li>
 				<li><a class="smoothscroll" href="#projects" title="">Bitirme Projeleri</a></li>
 				<li><a class="smoothscroll" href="#lottery" title="">Çekiliş</a></li>
-				<li><a class="smoothscroll" href="#sponsors" title="">Sponsorlar</a></li>
-				<li><a class="smoothscroll" href="#register" title="">Kayıt</a></li>						
+				<li><a class="smoothscroll" href="#sponsors" title="">Sponsorlar</a></li>				
 			</ul>	
 		</nav>  <!-- end #menu-nav-wrap -->
 	</header> <!-- end header -->  
@@ -92,8 +91,7 @@
 								<h1 class="animate-intro" style="font-size: 2rem">
 									<i class="fa fa-map-marker"></i>
 									Mühendislik Fakültesi Konferans Salonu
-								</h1>	
-								<div class="container"></div>					
+								</h1>					
 
 			  		</div> <!-- end col-twelve --> 
 		   	</div> <!-- end row --> 
@@ -641,105 +639,6 @@
     </div>
   </section>
 
-	<!-- register
-   ================================================== -->
-   <section id="register">
-    <div class="overlay"></div>
-		<div class="container">
-			<div class="row section-intro with-bottom-sep animate-this">
-   		<div class="col-twelve">
-   			<h3>Kayıt Ol</h3>
-
-   			<p class="lead">Etkinliğe katılmak ve çekilişlerden faydalanmak için kayıt olmanız gerekmektedir.</p>
-   		</div> 
-   	</div> <!-- end section-intro -->
-
-   	<div class="row contact-content">
-
-   		<div class="col-seven tab-full animate-this">
-
-            <!-- form -->
-            <form name="contactForm" id="contactForm" method="post">     			
-								{{ csrf_field() }}
-               <div class="form-field">
- 					   <input name="name" type="text" id="contactName" placeholder="Ad Soyad" value="" minlength="2" required="">
-               </div>
-
-                 		<div class="form-field">
-                 			<input name="email" type="email" id="contactEmail" placeholder="Email Adresi" value="" required="">
-                 		</div>		           
-	            		<div class="form-field">
-	            			<input name="phone" type="text" id="contactPhone" placeholder="Telefon" value="">
-	                  </div>	
-                                         
-               <div class="form-field">
-	              	<input type="text" name="from" id="contactCorp" placeholder="Kurum / Okul" required=""/>
-							</div> 
-							<div class="g-recaptcha" data-sitekey="6LcP11EUAAAAABry_WkHpbZdMKu5vrhyx3Guywkx"></div>
-							
-
-               <div class="form-field">
-                  <button class="submitform" type="submit">Katıl</button>
-
-                  <div id="submit-loader">
-                     <div class="text-loader">Gönderiliyor...</div>                             
-       			      <div class="s-loader">
-							  	<div class="bounce1"></div>
-							  	<div class="bounce2"></div>
-							  	<div class="bounce3"></div>
-							</div>
-						</div>
-               </div>
-
-      		</form> <!-- end form -->
-
-            <!-- contact-warning -->
-						<div id="message-warning"></div> 
-						<div id="message-error"></div> 
-
-            <!-- contact-success -->
-      		<div id="message-success">
-               <i class="fa fa-check"></i>İlginiz için teşekkür ederiz! En kısa zamanda mail ile döneceğiz.<br>
-      		</div>
-
-         </div> <!-- end col-seven --> 
-
-         <div class="col-four tab-full contact-info end animate-this">
-
-         	<h5>Düzenleyen Bilgileri</h5>
-
-         	<div class="cinfo">
-	   			<h6>Bize ulaşın</h6>
-	   			<p>
-	            	Yaşam Merkezi 1. Kat<br>
-	            	Kurupelit Kampüsü, OMU<br>
-	            	Samsun
-	            </p>
-	   		</div> <!-- end cinfo -->
-
-	   		<div class="cinfo social">
-	   			<h6>Email</h6>
-	   			<p>
-	   				siber@omu.edu.tr	     
-				   </p>
-					 <h6>Twitter</h6>
-	   			<p>
-	   				<a target="_blank" href="https://twitter.com/omusiber">@omusiber</a>	     
-				   </p>
-					 <h6>Instagram</h6>
-	   			<p>
-	   				<a target="_blank" href="https://instagram.com/omusiber">omusiber</a>	     
-				   </p>
-	   		</div> <!-- end cinfo -->
-
-         </div> <!-- end cinfo --> 
-
-   	</div> <!-- end row contact-content -->
-		</div>
-		
-	</section> <!-- end contact -->
-
-
 	<!-- footer
    ================================================== -->
 	<footer>
@@ -798,7 +697,6 @@
 	 <script src='https://www.google.com/recaptcha/api.js'></script>	 
    <script src="assets/js/plugins.js"></script>
    <script src="assets/js/main.js"></script>
-   <script src="assets/js/countdown.js"></script>
    <!-- Global site tag (gtag.js) - Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-117915777-1"></script>
 	<script>

@@ -13,7 +13,7 @@
 
 Route::get('/', 'SiteController@index')->name('index');
 Route::get('/2018', 'SiteController@last_year')->name('last_year');
-Route::post('/', 'SiteController@store');
+//Route::post('/', 'SiteController@store');
 //Route::get('/test', 'SiteController@sendEmailReminder');
 
 Route::group(['prefix' => Config::get('app.loginUrl')], function() {
