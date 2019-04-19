@@ -74,8 +74,7 @@
 				<li><a class="smoothscroll" href="#omuctf" title="">OMUCTF'18 Final</a></li>
 				<li><a class="smoothscroll" href="#projects" title="">Bitirme Projeleri</a></li>
 				<li><a class="smoothscroll" href="#lottery" title="">Çekiliş</a></li>
-				<li><a class="smoothscroll" href="#sponsors" title="">Destekleyenler</a></li>
-				<li><a class="smoothscroll" href="#register" title="">Kayıt</a></li>						
+				<li><a class="smoothscroll" href="#sponsors" title="">Destekleyenler</a></li>			
 			</ul>	
 		</nav>  <!-- end #menu-nav-wrap -->
 	</header> <!-- end header -->  
@@ -533,18 +532,9 @@
 					<a href="https://www.caykur.com.tr/" target="_blank">
 						<img src="assets/images/supporters/caykur.png" alt="Çaykur"/>
 					</a>
-				</div>
-				<h3 class="banner">Sponsor olmak için <a href="mailto:sponsor@bilgiguvenligizirvesi.com">sponsor@bilgiguvenligizirvesi.com</a></h3>
-				
+				</div>				
     </div>
   </section>
-
-	<!-- register
-   ================================================== -->
-	<div id="app">
-		<app-register></app-register>
-	</div>
-
 
 	<!-- footer
    ================================================== -->
