@@ -180,8 +180,8 @@
 										Oltalama Saldırıları Analizi ve Korunma Yöntemleri
 									</span>
 									<span class="flow-body">
-										Hakan Altunay<br>
-										Cybernova
+										Hakan Can Altunay<br>
+										Çarşamba Ticaret Borsasi Meslek Yüksekokulu
 									</span>
 								</div>
 							</li>
@@ -515,6 +515,12 @@
 					</a>
 					<a href="https://www.siber.pol.tr/" target="_blank">
 						<img src="assets/images/supporters/siber-suclar.png" alt="Siber Suçlarla Mücadele"/>
+					</a>
+					<a href="http://www.kopisan.com.tr/" target="_blank">
+						<img src="assets/images/supporters/kopisan.png" alt="Kopisan"/>
+					</a>
+					<a href="http://veb.com.tr/" target="_blank">
+						<img src="assets/images/supporters/veb.jpg" alt="Veb Bilgi İşlem"/>
 					</a>
 					<a href="https://www.samsunteknopark.com/" target="_blank">
 						<img src="assets/images/supporters/teknopark.jpeg" alt="Samsun Teknopark"/>
