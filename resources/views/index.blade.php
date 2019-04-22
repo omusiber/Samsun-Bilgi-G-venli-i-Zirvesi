@@ -522,6 +522,9 @@
 					<a href="http://veb.com.tr/" target="_blank">
 						<img src="assets/images/supporters/veb.jpg" alt="Veb Bilgi İşlem"/>
 					</a>
+					<a href="https://sdatam.com/" target="_blank">
+						<img src="assets/images/supporters/sdatam.png" alt="SDataM Secure Data Management"/>
+					</a>
 					<a href="https://www.samsunteknopark.com/" target="_blank">
 						<img src="assets/images/supporters/teknopark.jpeg" alt="Samsun Teknopark"/>
 					</a>
